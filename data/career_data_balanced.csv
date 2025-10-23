@@ -1,0 +1,101 @@
+Student_ID,10th_Score,12th_Score,UG_Score,Skills,Interests,Recommended_Career
+1,85,82,78,"Python,SQL,Statistics","Research,Analysis",Data Scientist
+2,92,88,85,"Python,Java,ML,Deep Learning","Development,Research",Machine Learning Engineer
+3,78,75,72,"Java,Spring Boot,MySQL","Development,Problem Solving",Software Developer
+4,88,85,81,"Python,R,Statistics,SQL","Analysis,Research",Data Analyst
+5,90,87,84,"Python,JavaScript,React,Node.js","Development,Creativity",Full Stack Developer
+6,82,79,76,"SQL,Excel,Power BI","Business,Analysis",Business Analyst
+7,95,92,89,"Python,ML,Deep Learning,TensorFlow","Research,Innovation",AI Research Scientist
+8,80,77,74,"Java,Spring,MySQL,HTML/CSS","Development,Design",Web Developer
+9,87,84,80,"Python,SQL,Tableau,Statistics","Analysis,Visualization",Data Engineer
+10,91,88,86,"Python,ML,Cloud Computing,AWS","Development,Cloud",ML Engineer
+11,83,80,77,"Java,Spring Boot,Microservices","Development,Architecture",Backend Developer
+12,89,86,82,"Python,R,Statistics,SQL","Research,Analysis",Research Scientist
+13,76,73,70,"HTML,CSS,JavaScript,React","Design,Development",Frontend Developer
+14,86,83,79,"Python,SQL,Excel,Power BI","Business,Analysis",Business Intelligence Analyst
+15,93,90,87,"Python,ML,Deep Learning,PyTorch","Research,Innovation",Deep Learning Engineer
+16,81,78,75,"Java,Spring,MySQL,JavaScript","Development,Problem Solving",Java Developer
+17,88,85,81,"Python,SQL,Statistics,Tableau","Analysis,Visualization",Data Visualization Specialist
+18,84,81,78,"Python,Flask,Django,PostgreSQL","Development,Backend",Python Developer
+19,90,87,84,"Python,ML,Cloud Computing,Azure","Development,Cloud",Cloud ML Engineer
+20,79,76,73,"HTML,CSS,JavaScript,Vue.js","Design,Development",UI/UX Developer
+21,85,82,78,"Python,SQL,Statistics,Excel","Analysis,Research",Data Scientist
+22,92,89,86,"Python,Java,ML,Big Data","Development,Research",Machine Learning Engineer
+23,77,74,71,"Java,Spring Boot,MySQL,Redis","Development,Backend",Software Developer
+24,89,86,82,"Python,R,Statistics,SQL","Research,Analysis",Data Analyst
+25,91,88,85,"Python,ML,Deep Learning,Computer Vision","Research,Innovation",Full Stack Developer
+26,82,79,76,"JavaScript,React,Node.js,MongoDB","Development,Full Stack",Business Analyst
+27,87,84,80,"Python,SQL,Apache Spark,Hadoop","Development,Big Data",AI Research Scientist
+28,88,85,81,"Python,ML,Cloud Computing,GCP","Development,Cloud",Web Developer
+29,80,77,74,"Java,Spring,Microservices,Docker","Development,DevOps",Data Engineer
+30,86,83,79,"Python,SQL,Power BI,Tableau","Analysis,Visualization",ML Engineer
+31,94,91,88,"Python,ML,Deep Learning,NLP","Research,Innovation",Backend Developer
+32,83,80,77,"Java,Spring Boot,PostgreSQL,Redis","Development,Backend",Research Scientist
+33,89,86,82,"Python,R,Statistics,SQL","Research,Analysis",Frontend Developer
+34,85,82,78,"Python,Flask,SQLAlchemy,PostgreSQL","Development,Backend",Business Intelligence Analyst
+35,91,88,85,"Python,ML,Cloud Computing,MLOps","Development,ML",Deep Learning Engineer
+36,78,75,72,"HTML,CSS,JavaScript,Angular","Design,Development",Java Developer
+37,87,84,80,"Python,SQL,Apache Kafka,Streaming","Development,Real-time",Data Visualization Specialist
+38,90,87,84,"Python,ML,Deep Learning,Reinforcement Learning","Research,Innovation",Python Developer
+39,81,78,75,"Java,Spring,Microservices,Kubernetes","Development,Cloud",Cloud ML Engineer
+40,88,85,81,"Python,SQL,Statistics,Scikit-learn","Analysis,ML",UI/UX Developer
+41,92,89,86,"Python,ML,Deep Learning,Computer Vision","Research,Innovation",Data Scientist
+42,79,76,73,"JavaScript,React,TypeScript,GraphQL","Development,Frontend",Machine Learning Engineer
+43,86,83,79,"Python,SQL,Apache Airflow,Docker","Development,Data",Software Developer
+44,89,86,82,"Python,ML,Cloud Computing,AWS SageMaker","Development,ML",Data Analyst
+45,84,81,78,"Java,Spring Boot,Elasticsearch,Logstash","Development,Search",Full Stack Developer
+46,91,88,85,"Python,ML,Deep Learning,GANs","Research,Innovation",Business Analyst
+47,82,79,76,"Python,Flask,SQLAlchemy,Redis","Development,Backend",AI Research Scientist
+48,87,84,80,"Python,SQL,Apache Spark,Delta Lake","Development,Big Data",Web Developer
+49,90,87,84,"Python,ML,Cloud Computing,MLflow","Development,ML",Data Engineer
+50,77,74,71,"HTML,CSS,JavaScript,Next.js","Design,Development",ML Engineer
+51,88,85,81,"Python,SQL,Statistics,Prophet","Analysis,Forecasting",Backend Developer
+52,93,90,87,"Python,ML,Deep Learning,Transformers","Research,Innovation",Research Scientist
+53,80,77,74,"Java,Spring,Microservices,Event Streaming","Development,Real-time",Frontend Developer
+54,85,82,78,"Python,SQL,Apache Superset,Metabase","Analysis,Visualization",Business Intelligence Analyst
+55,89,86,82,"Python,ML,Cloud Computing,Vertex AI","Development,ML",Deep Learning Engineer
+56,83,80,77,"JavaScript,React,Redux,Webpack","Development,Frontend",Java Developer
+57,86,83,79,"Python,SQL,Apache Druid,ClickHouse","Development,Analytics",Data Visualization Specialist
+58,91,88,85,"Python,ML,Deep Learning,LLMs","Research,Innovation",Python Developer
+59,78,75,72,"Java,Spring Boot,GraphQL,PostgreSQL","Development,API",Cloud ML Engineer
+60,87,84,80,"Python,SQL,Apache Pinot,Real-time Analytics","Development,Real-time",UI/UX Developer
+61,92,89,86,"Python,ML,Deep Learning,Multimodal","Research,Innovation",Data Scientist
+62,81,78,75,"Python,Flask,SQLAlchemy,PostgreSQL","Development,Backend",Machine Learning Engineer
+63,88,85,81,"Python,SQL,Apache Beam,Dataflow","Development,Big Data",Software Developer
+64,90,87,84,"Python,ML,Cloud Computing,MLOps","Development,ML",Data Analyst
+65,79,76,73,"HTML,CSS,JavaScript,Svelte","Design,Development",Full Stack Developer
+66,85,82,78,"Python,SQL,Statistics,Time Series","Analysis,Forecasting",Business Analyst
+67,94,91,88,"Python,ML,Deep Learning,Computer Vision","Research,Innovation",AI Research Scientist
+68,82,79,76,"Java,Spring,Microservices,Service Mesh","Development,Cloud",Web Developer
+69,89,86,82,"Python,SQL,Apache Iceberg,Data Lake","Development,Data",Data Engineer
+70,87,84,80,"Python,ML,Cloud Computing,MLflow","Development,ML",ML Engineer
+71,91,88,85,"Python,ML,Deep Learning,Neural Architecture Search","Research,Innovation",Backend Developer
+72,80,77,74,"JavaScript,React,Next.js,Serverless","Development,Frontend",Research Scientist
+73,86,83,79,"Python,SQL,Apache Pulsar,Event Streaming","Development,Real-time",Frontend Developer
+74,88,85,81,"Python,ML,Cloud Computing,MLOps","Development,ML",Business Intelligence Analyst
+75,84,81,78,"Java,Spring Boot,Reactive Programming","Development,Backend",Deep Learning Engineer
+76,90,87,84,"Python,ML,Deep Learning,Federated Learning","Research,Innovation",Java Developer
+77,83,80,77,"Python,Flask,SQLAlchemy,AsyncIO","Development,Backend",Data Visualization Specialist
+78,87,84,80,"Python,SQL,Apache Kafka,Schema Registry","Development,Data",Python Developer
+79,89,86,82,"Python,ML,Cloud Computing,MLOps","Development,ML",Cloud ML Engineer
+80,78,75,72,"HTML,CSS,JavaScript,Web Components","Design,Development",UI/UX Developer
+81,85,82,78,"Python,SQL,Statistics,Experimental Design","Analysis,Research",Data Scientist
+82,93,90,87,"Python,ML,Deep Learning,Graph Neural Networks","Research,Innovation",Machine Learning Engineer
+83,81,78,75,"Java,Spring,Microservices,Event Sourcing","Development,Architecture",Software Developer
+84,88,85,81,"Python,SQL,Apache Druid,Real-time Analytics","Development,Analytics",Data Analyst
+85,91,88,85,"Python,ML,Cloud Computing,MLOps","Development,ML",Full Stack Developer
+86,79,76,73,"JavaScript,React,State Management,Testing","Development,Frontend",Business Analyst
+87,86,83,79,"Python,SQL,Apache Beam,Streaming Analytics","Development,Big Data",AI Research Scientist
+88,90,87,84,"Python,ML,Deep Learning,Model Compression","Research,Innovation",Web Developer
+89,82,79,76,"Java,Spring Boot,Distributed Systems","Development,Backend",Data Engineer
+90,87,84,80,"Python,SQL,Apache Pinot,Real-time BI","Development,BI",ML Engineer
+91,92,89,86,"Python,ML,Deep Learning,Neural ODEs","Research,Innovation",Backend Developer
+92,80,77,74,"Python,Flask,SQLAlchemy,AsyncIO","Development,Backend",Research Scientist
+93,89,86,82,"Python,SQL,Apache Kafka,Event Streaming","Development,Data",Frontend Developer
+94,88,85,81,"Python,ML,Cloud Computing,MLOps","Development,ML",Business Intelligence Analyst
+95,84,81,78,"HTML,CSS,JavaScript,Progressive Web Apps","Design,Development",Deep Learning Engineer
+96,91,88,85,"Python,ML,Deep Learning,Quantum ML","Research,Innovation",Java Developer
+97,83,80,77,"Java,Spring,Microservices,Cloud Native","Development,Cloud",Data Visualization Specialist
+98,86,83,79,"Python,SQL,Apache Superset,Real-time Dashboards","Development,Visualization",Python Developer
+99,90,87,84,"Python,ML,Cloud Computing,MLOps","Development,ML",Cloud ML Engineer
+100,77,74,71,"JavaScript,React,WebAssembly,Performance","Development,Frontend",UI/UX Developer

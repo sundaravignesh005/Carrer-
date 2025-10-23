@@ -1,0 +1,1001 @@
+Student_ID,10th_Score,12th_Score,UG_Score,Skills,Interests,Recommended_Career
+S0001,90.91,85.12,73.49,"Python,Spark,SQL,ML,Big Data","Analysis,Mathematics,Research,Development",Data Scientist
+S0002,84.28,93.01,87.74,"Python,SQL,ML,NLP,Computer Vision","Analysis,Research,ML,Mathematics",Data Scientist
+S0003,92.32,87.69,78.61,"Python,SQL,ML,NLP,Computer Vision","Problem Solving,Research,Analysis,Technology",Data Scientist
+S0004,83.63,89.67,89.79,"Python,SQL,ML,NLP,Computer Vision","Analysis,Research,ML,Mathematics",Data Scientist
+S0005,93.42,84.13,83.25,"Python,R,Statistics,ML,Tableau","Research,ML,Data Analysis,Innovation",Data Scientist
+S0006,81.63,78.07,77.67,"Python,TensorFlow,Keras,ML,Statistics","Analysis,Research,ML,Mathematics",Data Scientist
+S0007,82.55,80.7,76.25,"Python,TensorFlow,Keras,ML,Statistics","Research,Analysis,Statistics,Problem Solving",Data Scientist
+S0008,93.23,89.94,85.1,"Python,R,Statistics,ML,Tableau","Research,Analysis,Statistics,Problem Solving",Data Scientist
+S0009,86.98,91.95,85.9,"R,Python,Statistics,ML,Data Visualization","Research,Statistics,Data,Innovation",Data Scientist
+S0010,86.25,81.82,81.56,"R,Python,Statistics,ML,Data Visualization","Problem Solving,Research,Analysis,Technology",Data Scientist
+S0011,90.24,90.25,81.64,"Python,R,Statistics,ML,Tableau","Research,Analysis,Statistics,Problem Solving",Data Scientist
+S0012,89.84,86.23,83.38,"Python,R,Statistics,ML,Tableau","Analysis,Mathematics,Research,Development",Data Scientist
+S0013,82.48,80.72,76.5,"Python,Spark,SQL,ML,Big Data","Research,Analysis,Statistics,Problem Solving",Data Scientist
+S0014,84.65,79.6,73.05,"Python,SQL,ML,AWS,Docker","Problem Solving,Research,Analysis,Technology",Data Scientist
+S0015,85.99,82.38,79.24,"Python,SQL,ML,NLP,Computer Vision","Analysis,Research,ML,Mathematics",Data Scientist
+S0016,85.11,80.4,77.25,"Python,SQL,Statistics,ML,Deep Learning","Research,ML,Data Analysis,Innovation",Data Scientist
+S0017,89.69,84.12,84.94,"Python,R,Statistics,ML,Tableau","Research,Statistics,Data,Innovation",Data Scientist
+S0018,88.65,94.88,92.73,"R,Python,Statistics,ML,Data Visualization","Problem Solving,Research,Analysis,Technology",Data Scientist
+S0019,89.71,77.32,83.74,"Python,R,Statistics,ML,Tableau","Research,Statistics,Data,Innovation",Data Scientist
+S0020,94.53,87.61,83.44,"Python,Spark,SQL,ML,Big Data","Problem Solving,Research,Analysis,Technology",Data Scientist
+S0021,82.93,82.97,79.88,"Python,R,Statistics,ML,Tableau","Problem Solving,Research,Analysis,Technology",Data Scientist
+S0022,88.41,85.51,84.48,"Python,Spark,SQL,ML,Big Data","Research,ML,Data Analysis,Innovation",Data Scientist
+S0023,86.36,75.61,75.22,"R,Python,Statistics,ML,Data Visualization","Research,Analysis,Statistics,Problem Solving",Data Scientist
+S0024,94.23,84.92,88.28,"R,Python,Statistics,ML,Data Visualization","Analysis,Mathematics,Research,Development",Data Scientist
+S0025,95.74,83.03,85.19,"Python,Pandas,NumPy,Scikit-learn,ML","Analysis,Mathematics,Research,Development",Data Scientist
+S0026,92.1,91.7,88.73,"R,Python,Statistics,ML,Data Visualization","Analysis,Mathematics,Research,Development",Data Scientist
+S0027,95.74,92.46,93.55,"R,Python,Statistics,ML,Data Visualization","Research,Analysis,Statistics,Problem Solving",Data Scientist
+S0028,94.67,92.87,78.57,"R,Python,Statistics,ML,Data Visualization","Research,Analysis,Statistics,Problem Solving",Data Scientist
+S0029,95.22,92.77,85.57,"Python,SQL,ML,AWS,Docker","Problem Solving,Research,Analysis,Technology",Data Scientist
+S0030,80.14,87.22,79.35,"Python,SQL,Statistics,ML,Deep Learning","Problem Solving,Research,Analysis,Technology",Data Scientist
+S0031,94.45,86.23,83.28,"Python,R,Statistics,ML,Tableau","Analysis,Research,ML,Mathematics",Data Scientist
+S0032,83.45,88.41,70.25,"Python,SQL,ML,NLP,Computer Vision","Research,Statistics,Data,Innovation",Data Scientist
+S0033,80.52,77.43,73.39,"Python,TensorFlow,Keras,ML,Statistics","Analysis,Mathematics,Research,Development",Data Scientist
+S0034,87.15,83.97,84.86,"Python,SQL,Statistics,ML,Deep Learning","Problem Solving,Research,Analysis,Technology",Data Scientist
+S0035,76.22,79.54,75.54,"Python,SQL,Statistics,ML,Deep Learning","Analysis,Mathematics,Research,Development",Data Scientist
+S0036,90.7,79.75,76.53,"R,Python,Statistics,ML,Data Visualization","Analysis,Research,ML,Mathematics",Data Scientist
+S0037,86.25,85.97,82.57,"Python,SQL,Statistics,ML,Deep Learning","Research,Statistics,Data,Innovation",Data Scientist
+S0038,77.73,76.25,82.41,"Python,SQL,ML,AWS,Docker","Analysis,Research,ML,Mathematics",Data Scientist
+S0039,95.0,88.27,88.96,"Python,R,Statistics,ML,Tableau","Problem Solving,Research,Analysis,Technology",Data Scientist
+S0040,84.68,83.2,75.92,"Python,Spark,SQL,ML,Big Data","Research,ML,Data Analysis,Innovation",Data Scientist
+S0041,95.97,81.7,84.04,"R,Python,Statistics,ML,Data Visualization","Research,Statistics,Data,Innovation",Data Scientist
+S0042,87.07,90.14,89.09,"R,Python,Statistics,ML,Data Visualization","Research,Analysis,Statistics,Problem Solving",Data Scientist
+S0043,86.48,73.43,78.82,"R,Python,Statistics,ML,Data Visualization","Research,Analysis,Statistics,Problem Solving",Data Scientist
+S0044,82.25,86.35,83.7,"Python,Pandas,NumPy,Scikit-learn,ML","Analysis,Research,ML,Mathematics",Data Scientist
+S0045,87.25,89.05,76.73,"R,Python,Statistics,ML,Data Visualization","Analysis,Research,ML,Mathematics",Data Scientist
+S0046,91.99,88.65,79.85,"Python,Pandas,NumPy,Scikit-learn,ML","Analysis,Research,ML,Mathematics",Data Scientist
+S0047,96.73,87.77,84.69,"Python,Spark,SQL,ML,Big Data","Research,Analysis,Statistics,Problem Solving",Data Scientist
+S0048,84.92,90.13,81.34,"Python,TensorFlow,Keras,ML,Statistics","Research,Analysis,Statistics,Problem Solving",Data Scientist
+S0049,90.44,84.38,86.24,"Python,R,Statistics,ML,Tableau","Research,ML,Data Analysis,Innovation",Data Scientist
+S0050,84.82,84.57,77.52,"Python,SQL,Statistics,ML,Deep Learning","Research,Statistics,Data,Innovation",Data Scientist
+S0051,99.5,91.5,82.26,"Python,TensorFlow,Keras,ML,Deep Learning","Research,Development,Innovation,Technology",Machine Learning Engineer
+S0052,88.77,90.97,93.05,"Python,ML,Deep Learning,Edge Computing,IoT","Development,AI,Research,Optimization",Machine Learning Engineer
+S0053,84.26,80.98,81.43,"C++,Python,ML,Deep Learning,Optimization","Development,AI,Research,Optimization",Machine Learning Engineer
+S0054,83.75,77.88,77.66,"Python,ML,Deep Learning,NLP,Computer Vision","Development,AI,Research,Optimization",Machine Learning Engineer
+S0055,75.51,78.15,74.18,"Python,TensorFlow,ML,Cloud,AWS","Development,AI,Research,Optimization",Machine Learning Engineer
+S0056,92.64,92.92,94.43,"Python,PyTorch,ML,Deep Learning,Docker","AI,Research,Development,Problem Solving",Machine Learning Engineer
+S0057,80.86,75.22,70.26,"Python,ML,Deep Learning,Kubernetes,MLOps","Development,Research,ML,AI,Innovation",Machine Learning Engineer
+S0058,87.13,85.15,88.2,"Python,TensorFlow,Keras,ML,Deep Learning","Research,ML,Development,Innovation",Machine Learning Engineer
+S0059,79.92,80.36,78.25,"Python,ML,Deep Learning,Kubernetes,MLOps","Research,ML,Development,Innovation",Machine Learning Engineer
+S0060,79.66,77.81,77.55,"Python,PyTorch,ML,Deep Learning,Docker","AI,Research,Development,Problem Solving",Machine Learning Engineer
+S0061,97.99,91.83,89.15,"Python,PyTorch,ML,Deep Learning,Docker","Research,ML,Development,Innovation",Machine Learning Engineer
+S0062,90.08,95.02,93.23,"Python,ML,Deep Learning,Kubernetes,MLOps","AI,Research,Development,Problem Solving",Machine Learning Engineer
+S0063,78.68,77.88,78.96,"Python,TensorFlow,ML,Cloud,AWS","ML,AI,Development,Research,Mathematics",Machine Learning Engineer
+S0064,94.64,96.36,83.76,"Python,ML,Deep Learning,Edge Computing,IoT","Development,Research,ML,AI,Innovation",Machine Learning Engineer
+S0065,82.54,77.78,80.97,"C++,Python,ML,Deep Learning,Optimization","Research,Development,Innovation,Technology",Machine Learning Engineer
+S0066,98.82,82.48,82.76,"Python,ML,Deep Learning,Kubernetes,MLOps","Development,Research,ML,AI,Innovation",Machine Learning Engineer
+S0067,96.58,86.03,87.23,"Python,Spark,ML,Scala,Big Data","Research,Development,Innovation,Technology",Machine Learning Engineer
+S0068,98.89,89.09,95.91,"Python,Spark,ML,Scala,Big Data","Research,Development,Innovation,Technology",Machine Learning Engineer
+S0069,86.99,97.38,85.22,"C++,Python,ML,Deep Learning,Optimization","Research,Development,Innovation,Technology",Machine Learning Engineer
+S0070,86.65,87.08,89.6,"Python,TensorFlow,Keras,ML,Deep Learning","Research,Development,Innovation,Technology",Machine Learning Engineer
+S0071,90.18,87.0,86.39,"Python,Spark,ML,Scala,Big Data","AI,Research,Development,Problem Solving",Machine Learning Engineer
+S0072,93.54,94.29,84.48,"Python,TensorFlow,Keras,ML,Deep Learning","Research,ML,Development,Innovation",Machine Learning Engineer
+S0073,92.42,88.79,85.98,"Python,TensorFlow,Keras,ML,Deep Learning","Research,Development,Innovation,Technology",Machine Learning Engineer
+S0074,94.64,95.35,90.68,"Python,TensorFlow,Keras,ML,Deep Learning","Development,Research,ML,AI,Innovation",Machine Learning Engineer
+S0075,97.0,96.69,91.93,"Python,ML,Deep Learning,NLP,Computer Vision","Development,Research,ML,AI,Innovation",Machine Learning Engineer
+S0076,90.57,88.02,82.52,"Python,ML,Deep Learning,Kubernetes,MLOps","Research,Development,Innovation,Technology",Machine Learning Engineer
+S0077,81.19,77.7,82.51,"Python,PyTorch,ML,Deep Learning,Docker","AI,Research,Development,Problem Solving",Machine Learning Engineer
+S0078,91.67,85.25,89.61,"Python,PyTorch,ML,Deep Learning,Docker","Development,Research,ML,AI,Innovation",Machine Learning Engineer
+S0079,96.16,84.68,83.69,"Python,PyTorch,ML,Deep Learning,Docker","ML,AI,Development,Research,Mathematics",Machine Learning Engineer
+S0080,91.31,92.87,86.24,"Python,ML,Deep Learning,Kubernetes,MLOps","Development,Research,ML,AI,Innovation",Machine Learning Engineer
+S0081,83.88,79.13,73.66,"Python,ML,Deep Learning,NLP,Computer Vision","Development,AI,Research,Optimization",Machine Learning Engineer
+S0082,80.85,85.45,78.39,"Python,ML,Deep Learning,Kubernetes,MLOps","ML,AI,Development,Research,Mathematics",Machine Learning Engineer
+S0083,99.49,84.35,77.55,"Python,Spark,ML,Scala,Big Data","AI,Research,Development,Problem Solving",Machine Learning Engineer
+S0084,86.82,75.29,72.46,"Python,TensorFlow,ML,Cloud,AWS","Research,ML,Development,Innovation",Machine Learning Engineer
+S0085,84.58,72.15,73.95,"Python,ML,Deep Learning,Kubernetes,MLOps","Development,AI,Research,Optimization",Machine Learning Engineer
+S0086,90.52,89.9,86.91,"Python,TensorFlow,Keras,ML,Deep Learning","Research,ML,Development,Innovation",Machine Learning Engineer
+S0087,80.39,72.13,64.64,"C++,Python,ML,Deep Learning,Optimization","Research,Development,Innovation,Technology",Machine Learning Engineer
+S0088,92.99,88.6,85.64,"Python,ML,Deep Learning,NLP,Computer Vision","Development,AI,Research,Optimization",Machine Learning Engineer
+S0089,92.98,90.42,84.35,"Python,ML,Deep Learning,NLP,Computer Vision","Development,AI,Research,Optimization",Machine Learning Engineer
+S0090,81.93,76.25,78.94,"C++,Python,ML,Deep Learning,Optimization","Research,ML,Development,Innovation",Machine Learning Engineer
+S0091,93.35,93.0,83.9,"Python,ML,Deep Learning,Kubernetes,MLOps","AI,Research,Development,Problem Solving",Machine Learning Engineer
+S0092,79.11,79.53,72.2,"Python,Spark,ML,Scala,Big Data","Research,Development,Innovation,Technology",Machine Learning Engineer
+S0093,94.47,96.61,85.65,"Python,TensorFlow,Keras,ML,Deep Learning","Research,ML,Development,Innovation",Machine Learning Engineer
+S0094,88.02,85.56,81.84,"Python,TensorFlow,ML,Cloud,AWS","Development,AI,Research,Optimization",Machine Learning Engineer
+S0095,85.98,74.16,76.59,"Python,TensorFlow,ML,Cloud,AWS","Development,AI,Research,Optimization",Machine Learning Engineer
+S0096,90.07,82.83,93.06,"Python,ML,Deep Learning,NLP,Computer Vision","Research,Development,Innovation,Technology",Machine Learning Engineer
+S0097,87.7,82.22,80.24,"Python,ML,Deep Learning,Edge Computing,IoT","Research,ML,Development,Innovation",Machine Learning Engineer
+S0098,95.51,93.36,88.0,"Python,Spark,ML,Scala,Big Data","ML,AI,Development,Research,Mathematics",Machine Learning Engineer
+S0099,98.0,90.58,86.05,"Python,TensorFlow,ML,Cloud,AWS","Development,AI,Research,Optimization",Machine Learning Engineer
+S0100,96.8,82.78,87.86,"Python,TensorFlow,ML,Cloud,AWS","Research,ML,Development,Innovation",Machine Learning Engineer
+S0101,82.85,80.38,80.74,"JavaScript,Node.js,MongoDB,React","Development,Programming,Problem Solving,Technology",Software Developer
+S0102,73.72,74.92,75.51,"JavaScript,Node.js,MongoDB,React","Development,Technology,Innovation,Architecture",Software Developer
+S0103,92.78,89.05,76.29,"Ruby,Rails,PostgreSQL,Redis","Coding,Development,Problem Solving,Design",Software Developer
+S0104,74.26,72.36,73.86,"Ruby,Rails,PostgreSQL,Redis","Development,Coding,Innovation,Design",Software Developer
+S0105,87.58,76.28,84.89,"JavaScript,Node.js,MongoDB,React","Coding,Development,Problem Solving,Design",Software Developer
+S0106,82.08,90.95,78.13,"Java,Spring Boot,MySQL,REST API","Development,Programming,Debugging,Innovation",Software Developer
+S0107,89.15,86.48,76.63,"Ruby,Rails,PostgreSQL,Redis","Coding,Development,Problem Solving,Design",Software Developer
+S0108,88.17,78.46,67.8,"JavaScript,Node.js,MongoDB,React","Coding,Development,Problem Solving,Design",Software Developer
+S0109,79.48,87.18,81.51,"Python,Django,PostgreSQL,REST API","Development,Programming,Debugging,Innovation",Software Developer
+S0110,72.69,76.46,72.69,"Go,PostgreSQL,Docker,Microservices","Development,Coding,Innovation,Design",Software Developer
+S0111,75.34,74.37,69.18,"Python,Django,PostgreSQL,REST API","Coding,Development,Problem Solving,Design",Software Developer
+S0112,83.91,78.86,65.96,"C#,.NET,SQL Server,Azure","Development,Programming,Debugging,Innovation",Software Developer
+S0113,85.62,88.27,72.98,"Java,Spring Boot,MySQL,REST API","Programming,Development,Logic,Problem Solving",Software Developer
+S0114,92.37,78.16,77.79,"Python,Flask,SQLAlchemy,Redis","Programming,Development,Logic,Problem Solving",Software Developer
+S0115,78.87,79.98,79.08,"Go,PostgreSQL,Docker,Microservices","Coding,Development,Problem Solving,Design",Software Developer
+S0116,91.35,89.74,77.03,"JavaScript,Node.js,MongoDB,React","Programming,Development,Logic,Problem Solving",Software Developer
+S0117,85.55,81.48,72.7,"Go,PostgreSQL,Docker,Microservices","Programming,Development,Logic,Problem Solving",Software Developer
+S0118,85.61,80.03,79.79,"Go,PostgreSQL,Docker,Microservices","Development,Technology,Innovation,Architecture",Software Developer
+S0119,89.66,81.86,79.79,"Python,Django,PostgreSQL,REST API","Development,Programming,Debugging,Innovation",Software Developer
+S0120,82.63,75.76,70.68,"Java,Microservices,Docker,Kubernetes","Development,Coding,Innovation,Design",Software Developer
+S0121,90.73,87.28,75.43,"Python,Django,PostgreSQL,REST API","Development,Technology,Innovation,Architecture",Software Developer
+S0122,78.89,77.82,74.69,"Go,PostgreSQL,Docker,Microservices","Programming,Development,Logic,Problem Solving",Software Developer
+S0123,80.1,73.97,70.92,"Python,Flask,SQLAlchemy,Redis","Coding,Development,Problem Solving,Design",Software Developer
+S0124,79.37,83.05,76.08,"Python,Flask,SQLAlchemy,Redis","Development,Technology,Innovation,Architecture",Software Developer
+S0125,81.28,78.04,83.95,"Python,Django,PostgreSQL,REST API","Development,Programming,Debugging,Innovation",Software Developer
+S0126,80.07,71.07,76.01,"Python,Django,PostgreSQL,REST API","Development,Programming,Problem Solving,Technology",Software Developer
+S0127,88.03,83.96,81.66,"Python,Flask,SQLAlchemy,Redis","Coding,Development,Problem Solving,Design",Software Developer
+S0128,89.12,85.33,84.93,"Java,Spring Boot,MySQL,REST API","Coding,Development,Problem Solving,Design",Software Developer
+S0129,80.04,77.88,74.12,"C#,.NET,SQL Server,Azure","Development,Coding,Innovation,Design",Software Developer
+S0130,82.98,81.69,79.31,"JavaScript,Node.js,MongoDB,React","Coding,Development,Problem Solving,Design",Software Developer
+S0131,81.67,79.32,70.63,"JavaScript,Node.js,MongoDB,React","Development,Coding,Innovation,Design",Software Developer
+S0132,77.64,75.67,76.86,"Java,Spring Boot,MySQL,REST API","Programming,Development,Logic,Problem Solving",Software Developer
+S0133,79.0,89.02,84.64,"Ruby,Rails,PostgreSQL,Redis","Development,Coding,Innovation,Design",Software Developer
+S0134,84.84,77.04,82.07,"JavaScript,Node.js,MongoDB,React","Development,Technology,Innovation,Architecture",Software Developer
+S0135,84.06,78.74,77.45,"C#,.NET,SQL Server,Azure","Programming,Development,Logic,Problem Solving",Software Developer
+S0136,84.07,86.8,74.18,"C#,.NET,SQL Server,Azure","Development,Technology,Innovation,Architecture",Software Developer
+S0137,70.6,75.75,73.76,"Python,Django,PostgreSQL,REST API","Development,Programming,Debugging,Innovation",Software Developer
+S0138,81.11,88.03,72.17,"Ruby,Rails,PostgreSQL,Redis","Development,Technology,Innovation,Architecture",Software Developer
+S0139,77.45,75.65,73.41,"Python,Flask,SQLAlchemy,Redis","Programming,Development,Logic,Problem Solving",Software Developer
+S0140,83.83,82.01,71.58,"Python,Flask,SQLAlchemy,Redis","Development,Technology,Innovation,Architecture",Software Developer
+S0141,90.3,79.47,71.75,"Ruby,Rails,PostgreSQL,Redis","Programming,Development,Logic,Problem Solving",Software Developer
+S0142,87.33,74.0,72.32,"Go,PostgreSQL,Docker,Microservices","Programming,Development,Logic,Problem Solving",Software Developer
+S0143,77.42,72.79,71.81,"Java,Spring Boot,MySQL,REST API","Development,Technology,Innovation,Architecture",Software Developer
+S0144,82.93,88.65,73.5,"Go,PostgreSQL,Docker,Microservices","Coding,Development,Problem Solving,Design",Software Developer
+S0145,84.98,94.58,73.4,"Python,Django,PostgreSQL,REST API","Development,Programming,Debugging,Innovation",Software Developer
+S0146,77.22,78.25,73.53,"Python,Django,PostgreSQL,REST API","Coding,Development,Problem Solving,Design",Software Developer
+S0147,90.31,79.36,76.1,"Go,PostgreSQL,Docker,Microservices","Development,Programming,Problem Solving,Technology",Software Developer
+S0148,78.61,85.97,75.49,"Python,Flask,SQLAlchemy,Redis","Development,Programming,Problem Solving,Technology",Software Developer
+S0149,88.74,80.38,79.3,"Ruby,Rails,PostgreSQL,Redis","Development,Programming,Problem Solving,Technology",Software Developer
+S0150,82.98,84.74,81.56,"Java,Microservices,Docker,Kubernetes","Programming,Development,Logic,Problem Solving",Software Developer
+S0151,92.83,81.06,77.17,"R,SQL,Statistics,Tableau,Excel","Analysis,Statistics,Business,Visualization",Data Analyst
+S0152,89.14,79.17,80.22,"Python,SQL,Excel,Tableau,Power BI","Data Analysis,Business Intelligence,Reporting",Data Analyst
+S0153,91.87,86.02,83.38,"Python,SQL,Excel,Tableau,Power BI","Statistics,Analysis,Business,Problem Solving",Data Analyst
+S0154,79.75,83.09,79.98,"Python,SQL,Looker,Statistics","Analysis,Statistics,Business,Visualization",Data Analyst
+S0155,84.92,83.96,82.68,"Python,SQL,Excel,Tableau,Power BI","Analysis,Statistics,Business,Visualization",Data Analyst
+S0156,87.84,83.67,77.33,"Python,SQL,Looker,Statistics","Statistics,Analysis,Business,Problem Solving",Data Analyst
+S0157,92.27,87.15,77.15,"R,SQL,ggplot2,Statistics,Excel","Analysis,Business,Statistics,Reporting",Data Analyst
+S0158,86.38,84.17,84.71,"SQL,Excel,Tableau,Statistics,Business Intelligence","Analysis,Business,Data,Decision Making",Data Analyst
+S0159,89.02,86.34,77.61,"SQL,Excel,Power BI,Data Visualization","Analysis,Business,Data,Decision Making",Data Analyst
+S0160,90.58,82.13,80.64,"Python,SQL,Excel,Tableau,Power BI","Data Analysis,Business Intelligence,Reporting",Data Analyst
+S0161,82.34,84.17,83.88,"Python,Pandas,SQL,Tableau,Statistics","Business Analysis,Data,Reporting,Insights",Data Analyst
+S0162,80.52,84.86,79.25,"R,SQL,Statistics,Tableau,Excel","Analysis,Statistics,Business,Visualization",Data Analyst
+S0163,89.88,91.79,89.82,"R,SQL,ggplot2,Statistics,Excel","Analysis,Statistics,Business,Visualization",Data Analyst
+S0164,90.38,85.05,86.59,"R,SQL,Statistics,Tableau,Excel","Analysis,Business,Data,Decision Making",Data Analyst
+S0165,96.33,85.7,82.17,"SQL,Excel,Tableau,Statistics,Business Intelligence","Analysis,Statistics,Business,Visualization",Data Analyst
+S0166,91.69,90.48,83.88,"SQL,Excel,Power BI,Data Visualization","Analysis,Statistics,Business,Visualization",Data Analyst
+S0167,85.45,85.72,77.69,"Python,SQL,Power BI,Statistics","Business Analysis,Data,Reporting,Insights",Data Analyst
+S0168,89.3,77.9,75.84,"Python,SQL,Excel,Tableau,Power BI","Analysis,Business,Data,Decision Making",Data Analyst
+S0169,93.78,86.64,77.73,"SQL,Excel,Tableau,Statistics,Business Intelligence","Business Analysis,Data,Reporting,Insights",Data Analyst
+S0170,90.13,90.89,80.92,"Python,SQL,Looker,Statistics","Analysis,Statistics,Business,Visualization",Data Analyst
+S0171,86.33,90.71,80.09,"Python,SQL,Power BI,Statistics","Analysis,Statistics,Business,Visualization",Data Analyst
+S0172,85.08,80.03,81.16,"R,SQL,Statistics,Tableau,Excel","Statistics,Analysis,Business,Problem Solving",Data Analyst
+S0173,90.62,86.41,84.98,"Python,SQL,Excel,Tableau,Power BI","Analysis,Business,Statistics,Reporting",Data Analyst
+S0174,87.0,80.84,79.9,"SQL,Excel,Tableau,Statistics,Business Intelligence","Data Analysis,Business Intelligence,Reporting",Data Analyst
+S0175,87.16,81.75,82.65,"SQL,Excel,Power BI,Data Visualization","Business Analysis,Data,Reporting,Insights",Data Analyst
+S0176,86.17,92.49,79.57,"Python,SQL,Looker,Statistics","Analysis,Statistics,Business,Visualization",Data Analyst
+S0177,90.1,86.37,80.8,"SQL,Excel,Power BI,Data Visualization","Business Analysis,Data,Reporting,Insights",Data Analyst
+S0178,87.85,86.51,80.03,"Python,SQL,Excel,Tableau,Power BI","Analysis,Statistics,Business,Visualization",Data Analyst
+S0179,88.09,76.78,75.85,"SQL,Excel,Power BI,Data Visualization","Statistics,Analysis,Business,Problem Solving",Data Analyst
+S0180,79.74,89.18,73.25,"SQL,Excel,Power BI,Data Visualization","Analysis,Statistics,Business,Visualization",Data Analyst
+S0181,85.33,85.43,80.92,"SQL,Excel,Power BI,Data Visualization","Analysis,Statistics,Business,Visualization",Data Analyst
+S0182,94.34,82.84,85.77,"Python,SQL,Excel,Tableau,Power BI","Statistics,Analysis,Business,Problem Solving",Data Analyst
+S0183,90.39,88.68,81.89,"SQL,Excel,Power BI,Data Visualization","Analysis,Statistics,Business,Visualization",Data Analyst
+S0184,89.62,89.18,79.73,"SQL,Excel,Tableau,Statistics,Business Intelligence","Analysis,Statistics,Business,Visualization",Data Analyst
+S0185,90.78,90.1,88.91,"R,SQL,Statistics,Tableau,Excel","Business Analysis,Data,Reporting,Insights",Data Analyst
+S0186,91.4,78.58,78.68,"Python,Pandas,SQL,Tableau,Statistics","Analysis,Business,Data,Decision Making",Data Analyst
+S0187,89.25,86.65,77.59,"Python,SQL,Excel,Tableau,Power BI","Analysis,Business,Statistics,Reporting",Data Analyst
+S0188,86.17,80.6,84.53,"Python,SQL,Power BI,Statistics","Data Analysis,Business Intelligence,Reporting",Data Analyst
+S0189,79.21,87.58,78.82,"Python,SQL,Excel,Tableau,Power BI","Data Analysis,Business Intelligence,Reporting",Data Analyst
+S0190,85.31,86.29,84.99,"R,SQL,Statistics,Tableau,Excel","Analysis,Business,Statistics,Reporting",Data Analyst
+S0191,93.03,82.13,82.27,"SQL,Excel,Power BI,Data Visualization","Analysis,Statistics,Business,Visualization",Data Analyst
+S0192,88.52,85.73,90.3,"R,SQL,ggplot2,Statistics,Excel","Business Analysis,Data,Reporting,Insights",Data Analyst
+S0193,84.81,86.59,77.14,"SQL,Excel,Power BI,Data Visualization","Business Analysis,Data,Reporting,Insights",Data Analyst
+S0194,88.77,84.98,80.91,"SQL,Excel,Power BI,Data Visualization","Business Analysis,Data,Reporting,Insights",Data Analyst
+S0195,89.75,80.63,85.06,"Python,SQL,Excel,Tableau,Power BI","Analysis,Business,Data,Decision Making",Data Analyst
+S0196,95.0,88.09,84.33,"R,SQL,ggplot2,Statistics,Excel","Statistics,Analysis,Business,Problem Solving",Data Analyst
+S0197,92.41,94.56,75.66,"Python,Pandas,SQL,Tableau,Statistics","Data Analysis,Business Intelligence,Reporting",Data Analyst
+S0198,93.4,84.59,87.27,"SQL,Excel,Power BI,Data Visualization","Business Analysis,Data,Reporting,Insights",Data Analyst
+S0199,83.51,76.4,86.7,"Python,SQL,Power BI,Statistics","Analysis,Statistics,Business,Visualization",Data Analyst
+S0200,85.95,84.12,79.76,"Python,Pandas,SQL,Tableau,Statistics","Statistics,Analysis,Business,Problem Solving",Data Analyst
+S0201,87.29,95.09,91.27,"Vue.js,Node.js,MongoDB,Express","Development,Full Stack,Problem Solving,Architecture",Full Stack Developer
+S0202,95.9,89.81,89.3,"Angular,Java,Spring Boot,MySQL","Development,Full Stack,Problem Solving,Architecture",Full Stack Developer
+S0203,76.63,76.9,70.23,"Vue.js,Python,Django,PostgreSQL,Docker","Full Stack,Development,Design,Problem Solving",Full Stack Developer
+S0204,85.05,73.22,72.47,"React,Node.js,MongoDB,Express,JavaScript","Development,Full Stack,Problem Solving,Architecture",Full Stack Developer
+S0205,86.62,80.42,85.77,"Vue.js,Node.js,MongoDB,Express","Development,Frontend,Backend,Database",Full Stack Developer
+S0206,93.17,95.7,83.39,"Vue.js,Node.js,MongoDB,Express","Development,Full Stack,API,Database",Full Stack Developer
+S0207,83.26,88.73,86.26,"React,Django,PostgreSQL,Redis,Docker","Development,Architecture,Full Stack,Innovation",Full Stack Developer
+S0208,79.98,71.39,72.68,"Vue.js,Node.js,MongoDB,Express","Development,Frontend,Backend,Database",Full Stack Developer
+S0209,94.03,88.6,85.3,"Vue.js,Python,Django,PostgreSQL,Docker","Development,Full Stack,Problem Solving,Architecture",Full Stack Developer
+S0210,82.02,83.13,80.93,"React,Django,PostgreSQL,Redis,Docker","Frontend,Backend,Development,Problem Solving",Full Stack Developer
+S0211,87.34,92.16,87.13,"Angular,Java,Spring Boot,MySQL","Development,Frontend,Backend,Database",Full Stack Developer
+S0212,92.71,82.56,78.57,"Vue.js,Python,Django,PostgreSQL,Docker","Development,Architecture,Full Stack,Innovation",Full Stack Developer
+S0213,85.47,74.79,83.26,"React,Node.js,MongoDB,Express,JavaScript","Development,Full Stack,API,Database",Full Stack Developer
+S0214,88.79,84.41,84.61,"React,Python,Flask,MySQL,Redis","Development,Full Stack,Problem Solving,Architecture",Full Stack Developer
+S0215,90.04,75.13,81.15,"Angular,Node.js,PostgreSQL,TypeScript","Development,Full Stack,Problem Solving,Architecture",Full Stack Developer
+S0216,96.15,86.97,75.17,"Angular,Node.js,PostgreSQL,TypeScript","Development,Frontend,Backend,Database",Full Stack Developer
+S0217,87.43,95.31,89.6,"React,Python,Flask,MySQL,Redis","Development,Full Stack,API,Database",Full Stack Developer
+S0218,93.63,88.23,86.23,"React,Node.js,GraphQL,PostgreSQL,Docker","Full Stack,Development,Design,Problem Solving",Full Stack Developer
+S0219,86.38,89.57,87.25,"React,Django,PostgreSQL,Redis,Docker","Frontend,Backend,Development,Problem Solving",Full Stack Developer
+S0220,82.27,69.34,78.78,"React,Django,PostgreSQL,Redis,Docker","Frontend,Backend,Development,Problem Solving",Full Stack Developer
+S0221,93.21,80.72,86.28,"Vue.js,Node.js,MongoDB,Express","Development,Architecture,Full Stack,Innovation",Full Stack Developer
+S0222,86.28,82.38,71.11,"React,Node.js,MongoDB,Express,JavaScript","Frontend,Backend,Development,Problem Solving",Full Stack Developer
+S0223,78.66,80.28,65.11,"Vue.js,Python,Django,PostgreSQL,Docker","Full Stack,Development,Design,Problem Solving",Full Stack Developer
+S0224,84.75,79.52,72.49,"React,Django,PostgreSQL,Redis,Docker","Development,Architecture,Full Stack,Innovation",Full Stack Developer
+S0225,93.02,89.88,87.67,"React,Node.js,GraphQL,PostgreSQL,Docker","Full Stack,Development,Design,Problem Solving",Full Stack Developer
+S0226,95.25,87.13,78.89,"Vue.js,Node.js,MongoDB,Express","Full Stack,Development,Design,Problem Solving",Full Stack Developer
+S0227,87.99,83.41,85.74,"Vue.js,Node.js,MongoDB,Express","Development,Architecture,Full Stack,Innovation",Full Stack Developer
+S0228,83.02,91.47,85.49,"Vue.js,Node.js,MongoDB,Express","Development,Full Stack,API,Database",Full Stack Developer
+S0229,91.58,87.21,79.72,"Vue.js,Node.js,MongoDB,Express","Development,Full Stack,API,Database",Full Stack Developer
+S0230,83.8,87.11,80.28,"React,Django,PostgreSQL,Redis,Docker","Development,Full Stack,Problem Solving,Architecture",Full Stack Developer
+S0231,90.71,84.07,87.55,"React,Django,PostgreSQL,Redis,Docker","Development,Architecture,Full Stack,Innovation",Full Stack Developer
+S0232,89.34,76.13,78.31,"Vue.js,Python,Django,PostgreSQL,Docker","Development,Frontend,Backend,Database",Full Stack Developer
+S0233,80.36,75.8,72.47,"React,Node.js,GraphQL,PostgreSQL,Docker","Development,Frontend,Backend,Database",Full Stack Developer
+S0234,86.86,78.35,73.59,"React,Node.js,MongoDB,Express,JavaScript","Full Stack,Development,Design,Problem Solving",Full Stack Developer
+S0235,84.12,75.51,79.88,"Angular,Java,Spring Boot,MySQL","Full Stack,Development,Design,Problem Solving",Full Stack Developer
+S0236,74.74,72.41,69.26,"React,Django,PostgreSQL,Redis,Docker","Development,Full Stack,Problem Solving,Architecture",Full Stack Developer
+S0237,87.63,90.7,78.88,"React,Django,PostgreSQL,Redis,Docker","Development,Full Stack,API,Database",Full Stack Developer
+S0238,89.83,86.41,79.9,"React,Node.js,MongoDB,Express,JavaScript","Development,Full Stack,Problem Solving,Architecture",Full Stack Developer
+S0239,86.02,91.29,91.71,"React,Django,PostgreSQL,Redis,Docker","Development,Full Stack,API,Database",Full Stack Developer
+S0240,84.72,85.23,91.4,"React,Node.js,GraphQL,PostgreSQL,Docker","Development,Full Stack,API,Database",Full Stack Developer
+S0241,84.8,73.21,68.66,"Vue.js,Python,Django,PostgreSQL,Docker","Development,Architecture,Full Stack,Innovation",Full Stack Developer
+S0242,92.64,89.28,82.64,"React,Node.js,GraphQL,PostgreSQL,Docker","Development,Frontend,Backend,Database",Full Stack Developer
+S0243,84.14,84.29,91.03,"React,Node.js,MongoDB,Express,JavaScript","Frontend,Backend,Development,Problem Solving",Full Stack Developer
+S0244,92.51,79.16,88.5,"Angular,Node.js,PostgreSQL,TypeScript","Development,Frontend,Backend,Database",Full Stack Developer
+S0245,93.86,91.36,86.91,"Vue.js,Node.js,MongoDB,Express","Development,Full Stack,Problem Solving,Architecture",Full Stack Developer
+S0246,93.3,96.54,76.51,"Angular,Java,Spring Boot,MySQL","Development,Frontend,Backend,Database",Full Stack Developer
+S0247,85.81,82.86,73.66,"Angular,Java,Spring Boot,MySQL","Development,Full Stack,Problem Solving,Architecture",Full Stack Developer
+S0248,92.31,89.15,85.75,"Vue.js,Node.js,MongoDB,Express","Frontend,Backend,Development,Problem Solving",Full Stack Developer
+S0249,91.82,89.57,85.85,"Vue.js,Node.js,MongoDB,Express","Full Stack,Development,Design,Problem Solving",Full Stack Developer
+S0250,77.82,70.0,73.09,"Angular,Node.js,PostgreSQL,TypeScript","Development,Frontend,Backend,Database",Full Stack Developer
+S0251,85.61,66.48,76.0,"SQL,Excel,Power BI,Tableau,JIRA","Business,Strategy,Analysis,Problem Solving",Business Analyst
+S0252,79.88,75.45,78.38,"SQL,Power BI,Agile,Stakeholder Management","Business,Strategy,Analysis,Problem Solving",Business Analyst
+S0253,82.78,71.65,82.42,"SQL,Excel,Business Intelligence,Requirements Analysis","Business,Strategy,Analysis,Problem Solving",Business Analyst
+S0254,78.02,74.62,74.56,"Excel,SQL,Visio,Business Process Modeling","Business,Analysis,Requirements,Strategy",Business Analyst
+S0255,81.98,78.58,75.31,"SQL,Power BI,Agile,Stakeholder Management","Analysis,Business,Stakeholder Management",Business Analyst
+S0256,84.12,73.02,79.13,"SQL,Power BI,Agile,Stakeholder Management","Requirements Analysis,Business,Documentation",Business Analyst
+S0257,85.83,80.14,76.55,"SQL,Excel,Power BI,Tableau,JIRA","Business,Analysis,Requirements,Strategy",Business Analyst
+S0258,88.07,81.98,82.77,"SQL,Power BI,Process Improvement,Documentation","Business,Analysis,Requirements,Strategy",Business Analyst
+S0259,78.94,76.33,69.28,"Excel,SQL,Visio,Business Process Modeling","Business,Strategy,Analysis,Problem Solving",Business Analyst
+S0260,80.26,77.77,69.53,"SQL,Excel,Business Intelligence,Requirements Analysis","Business,Analysis,Requirements,Strategy",Business Analyst
+S0261,76.92,76.42,74.78,"SQL,Power BI,Agile,Stakeholder Management","Business,Strategy,Analysis,Problem Solving",Business Analyst
+S0262,80.74,78.24,71.95,"SQL,Power BI,Agile,Stakeholder Management","Business,Analysis,Requirements,Strategy",Business Analyst
+S0263,80.91,73.75,74.41,"Excel,SQL,Tableau,Project Management","Business Analysis,Requirements,Process Improvement",Business Analyst
+S0264,88.23,75.71,68.92,"Excel,SQL,Visio,Business Process Modeling","Analysis,Business,Stakeholder Management",Business Analyst
+S0265,87.48,71.95,83.41,"Excel,SQL,Visio,Business Process Modeling","Business,Strategy,Analysis,Problem Solving",Business Analyst
+S0266,77.86,78.35,68.89,"SQL,Power BI,Process Improvement,Documentation","Business,Analysis,Requirements,Strategy",Business Analyst
+S0267,83.34,84.1,73.78,"SQL,Tableau,Agile,User Stories,JIRA","Business Analysis,Requirements,Process Improvement",Business Analyst
+S0268,77.95,79.98,79.02,"Excel,SQL,Tableau,Project Management","Analysis,Business,Stakeholder Management",Business Analyst
+S0269,82.26,83.89,66.71,"Excel,SQL,Visio,Business Process Modeling","Business Analysis,Requirements,Process Improvement",Business Analyst
+S0270,79.79,77.3,71.44,"Excel,SQL,Visio,Business Process Modeling","Business,Strategy,Analysis,Problem Solving",Business Analyst
+S0271,92.38,83.8,81.47,"SQL,Tableau,Agile,User Stories,JIRA","Business Analysis,Strategy,Process,Reporting",Business Analyst
+S0272,84.92,85.16,72.08,"SQL,Excel,Power BI,Tableau,JIRA","Business,Strategy,Analysis,Problem Solving",Business Analyst
+S0273,81.95,69.72,77.71,"Power BI,SQL,Excel,Data Analysis,Reporting","Business Analysis,Requirements,Process Improvement",Business Analyst
+S0274,82.79,84.53,72.17,"SQL,Excel,Business Intelligence,Requirements Analysis","Business Analysis,Strategy,Process,Reporting",Business Analyst
+S0275,80.54,83.13,78.85,"SQL,Tableau,Agile,User Stories,JIRA","Business Analysis,Strategy,Process,Reporting",Business Analyst
+S0276,78.76,72.75,80.16,"SQL,Excel,Power BI,Tableau,JIRA","Requirements Analysis,Business,Documentation",Business Analyst
+S0277,74.87,72.62,73.07,"SQL,Excel,Power BI,Tableau,JIRA","Business,Strategy,Analysis,Problem Solving",Business Analyst
+S0278,87.05,76.15,75.48,"Excel,SQL,Tableau,Project Management","Business Analysis,Strategy,Process,Reporting",Business Analyst
+S0279,77.93,81.9,74.76,"SQL,Excel,Business Intelligence,Requirements Analysis","Requirements Analysis,Business,Documentation",Business Analyst
+S0280,82.91,77.03,78.86,"Power BI,SQL,Excel,Data Analysis,Reporting","Analysis,Business,Stakeholder Management",Business Analyst
+S0281,86.22,94.86,86.69,"SQL,Tableau,Agile,User Stories,JIRA","Business Analysis,Requirements,Process Improvement",Business Analyst
+S0282,80.87,79.14,72.94,"SQL,Excel,Business Intelligence,Requirements Analysis","Business,Analysis,Requirements,Strategy",Business Analyst
+S0283,86.26,77.92,73.68,"SQL,Excel,Business Intelligence,Requirements Analysis","Business,Strategy,Analysis,Problem Solving",Business Analyst
+S0284,82.8,77.27,76.99,"Excel,SQL,Visio,Business Process Modeling","Business,Analysis,Requirements,Strategy",Business Analyst
+S0285,89.82,83.61,83.41,"Power BI,SQL,Excel,Data Analysis,Reporting","Requirements Analysis,Business,Documentation",Business Analyst
+S0286,78.21,72.3,82.25,"SQL,Excel,Power BI,Tableau,JIRA","Requirements Analysis,Business,Documentation",Business Analyst
+S0287,90.04,82.39,85.06,"SQL,Excel,Power BI,Tableau,JIRA","Business Analysis,Requirements,Process Improvement",Business Analyst
+S0288,78.42,82.64,75.34,"SQL,Power BI,Agile,Stakeholder Management","Business Analysis,Requirements,Process Improvement",Business Analyst
+S0289,78.52,82.89,79.49,"Power BI,SQL,Excel,Data Analysis,Reporting","Business,Strategy,Analysis,Problem Solving",Business Analyst
+S0290,76.59,83.25,81.57,"SQL,Power BI,Agile,Stakeholder Management","Business Analysis,Strategy,Process,Reporting",Business Analyst
+S0291,91.57,94.17,81.23,"SQL,Tableau,Agile,User Stories,JIRA","Requirements Analysis,Business,Documentation",Business Analyst
+S0292,89.17,80.97,90.54,"SQL,Excel,Power BI,Tableau,JIRA","Business Analysis,Requirements,Process Improvement",Business Analyst
+S0293,87.88,86.72,77.85,"Power BI,SQL,Excel,Data Analysis,Reporting","Requirements Analysis,Business,Documentation",Business Analyst
+S0294,86.47,74.68,76.8,"SQL,Power BI,Agile,Stakeholder Management","Business Analysis,Strategy,Process,Reporting",Business Analyst
+S0295,79.28,80.29,75.34,"SQL,Excel,Business Intelligence,Requirements Analysis","Analysis,Business,Stakeholder Management",Business Analyst
+S0296,90.8,81.95,82.44,"SQL,Excel,Business Intelligence,Requirements Analysis","Business,Analysis,Requirements,Strategy",Business Analyst
+S0297,76.67,79.73,77.7,"SQL,Tableau,Agile,User Stories,JIRA","Business,Strategy,Analysis,Problem Solving",Business Analyst
+S0298,81.32,84.51,80.3,"SQL,Power BI,Agile,Stakeholder Management","Business,Strategy,Analysis,Problem Solving",Business Analyst
+S0299,82.69,76.26,75.34,"Excel,SQL,Tableau,Project Management","Business,Strategy,Analysis,Problem Solving",Business Analyst
+S0300,77.32,74.48,79.21,"Power BI,SQL,Excel,Data Analysis,Reporting","Business,Analysis,Requirements,Strategy",Business Analyst
+S0301,83.91,77.44,75.05,"Python,SQL,Apache Beam,Streaming Analytics","Development,Big Data",AI Research Scientist
+S0302,100.0,89.12,96.14,"Python,ML,Deep Learning,TensorFlow","Research,Innovation",AI Research Scientist
+S0303,88.96,76.9,74.82,"Python,SQL,Apache Beam,Streaming Analytics","Development,Big Data",AI Research Scientist
+S0304,92.11,85.06,81.18,"Python,SQL,Apache Beam,Streaming Analytics","Development,Big Data",AI Research Scientist
+S0305,91.0,88.84,79.31,"Python,SQL,Apache Beam,Streaming Analytics","Development,Big Data",AI Research Scientist
+S0306,98.93,84.95,86.44,"Python,ML,Deep Learning,Computer Vision","Research,Innovation",AI Research Scientist
+S0307,81.06,77.88,83.33,"Python,Flask,SQLAlchemy,Redis","Development,Backend",AI Research Scientist
+S0308,92.45,87.95,77.66,"Python,SQL,Apache Beam,Streaming Analytics","Development,Big Data",AI Research Scientist
+S0309,98.42,84.31,91.34,"Python,ML,Deep Learning,TensorFlow","Research,Innovation",AI Research Scientist
+S0310,88.88,87.17,78.03,"Python,SQL,Apache Beam,Streaming Analytics","Development,Big Data",AI Research Scientist
+S0311,92.88,85.98,76.8,"Python,SQL,Apache Spark,Hadoop","Development,Big Data",AI Research Scientist
+S0312,82.16,88.33,81.38,"Python,Flask,SQLAlchemy,Redis","Development,Backend",AI Research Scientist
+S0313,90.32,84.51,80.37,"Python,SQL,Apache Beam,Streaming Analytics","Development,Big Data",AI Research Scientist
+S0314,86.45,74.41,71.43,"Python,Flask,SQLAlchemy,Redis","Development,Backend",AI Research Scientist
+S0315,90.32,80.85,81.93,"Python,SQL,Apache Beam,Streaming Analytics","Development,Big Data",AI Research Scientist
+S0316,86.94,86.27,78.71,"Python,SQL,Apache Spark,Hadoop","Development,Big Data",AI Research Scientist
+S0317,85.35,78.37,78.58,"Python,SQL,Apache Beam,Streaming Analytics","Development,Big Data",AI Research Scientist
+S0318,97.91,99.42,90.13,"Python,ML,Deep Learning,Computer Vision","Research,Innovation",AI Research Scientist
+S0319,84.35,85.12,83.63,"Python,SQL,Apache Spark,Hadoop","Development,Big Data",AI Research Scientist
+S0320,83.72,87.96,80.43,"Python,Flask,SQLAlchemy,Redis","Development,Backend",AI Research Scientist
+S0321,83.45,91.66,80.03,"Python,SQL,Apache Spark,Hadoop","Development,Big Data",AI Research Scientist
+S0322,77.43,77.36,71.07,"Python,Flask,SQLAlchemy,Redis","Development,Backend",AI Research Scientist
+S0323,85.13,77.7,74.72,"Python,Flask,SQLAlchemy,Redis","Development,Backend",AI Research Scientist
+S0324,100.0,93.97,89.14,"Python,ML,Deep Learning,TensorFlow","Research,Innovation",AI Research Scientist
+S0325,91.18,85.26,79.04,"Python,SQL,Apache Spark,Hadoop","Development,Big Data",AI Research Scientist
+S0326,89.93,92.19,89.3,"Python,ML,Deep Learning,Computer Vision","Research,Innovation",AI Research Scientist
+S0327,99.31,89.9,87.2,"Python,ML,Deep Learning,Computer Vision","Research,Innovation",AI Research Scientist
+S0328,85.19,91.59,93.15,"Python,ML,Deep Learning,Computer Vision","Research,Innovation",AI Research Scientist
+S0329,88.54,81.96,78.08,"Python,SQL,Apache Beam,Streaming Analytics","Development,Big Data",AI Research Scientist
+S0330,85.15,82.14,70.71,"Python,Flask,SQLAlchemy,Redis","Development,Backend",AI Research Scientist
+S0331,90.84,82.39,80.7,"Python,SQL,Apache Beam,Streaming Analytics","Development,Big Data",AI Research Scientist
+S0332,91.69,92.08,83.65,"Python,ML,Deep Learning,Computer Vision","Research,Innovation",AI Research Scientist
+S0333,92.25,90.51,83.61,"Python,ML,Deep Learning,Computer Vision","Research,Innovation",AI Research Scientist
+S0334,76.97,86.46,77.44,"Python,Flask,SQLAlchemy,Redis","Development,Backend",AI Research Scientist
+S0335,76.48,81.26,74.01,"Python,Flask,SQLAlchemy,Redis","Development,Backend",AI Research Scientist
+S0336,86.36,76.75,75.01,"Python,Flask,SQLAlchemy,Redis","Development,Backend",AI Research Scientist
+S0337,92.63,88.74,82.99,"Python,SQL,Apache Spark,Hadoop","Development,Big Data",AI Research Scientist
+S0338,97.13,88.41,87.95,"Python,ML,Deep Learning,Computer Vision","Research,Innovation",AI Research Scientist
+S0339,95.85,88.23,85.99,"Python,ML,Deep Learning,Computer Vision","Research,Innovation",AI Research Scientist
+S0340,93.02,80.6,74.27,"Python,SQL,Apache Beam,Streaming Analytics","Development,Big Data",AI Research Scientist
+S0341,98.44,89.89,92.4,"Python,ML,Deep Learning,TensorFlow","Research,Innovation",AI Research Scientist
+S0342,82.16,83.43,82.28,"Python,SQL,Apache Spark,Hadoop","Development,Big Data",AI Research Scientist
+S0343,89.11,83.97,84.63,"Python,ML,Deep Learning,Computer Vision","Research,Innovation",AI Research Scientist
+S0344,99.92,89.82,82.64,"Python,ML,Deep Learning,Computer Vision","Research,Innovation",AI Research Scientist
+S0345,98.24,83.67,79.08,"Python,ML,Deep Learning,Computer Vision","Research,Innovation",AI Research Scientist
+S0346,97.32,87.04,87.88,"Python,ML,Deep Learning,Computer Vision","Research,Innovation",AI Research Scientist
+S0347,87.92,75.91,74.7,"Python,SQL,Apache Beam,Streaming Analytics","Development,Big Data",AI Research Scientist
+S0348,98.14,87.79,92.86,"Python,ML,Deep Learning,TensorFlow","Research,Innovation",AI Research Scientist
+S0349,90.1,83.9,79.03,"Python,SQL,Apache Beam,Streaming Analytics","Development,Big Data",AI Research Scientist
+S0350,86.21,90.38,87.6,"Python,ML,Deep Learning,TensorFlow","Research,Innovation",AI Research Scientist
+S0351,81.94,86.39,67.83,"HTML,CSS,JavaScript,Svelte,Node.js","Web Development,Design,User Experience",Web Developer
+S0352,89.18,95.68,82.12,"HTML,CSS,JavaScript,jQuery,Bootstrap","Design,Development,Web,User Experience",Web Developer
+S0353,79.9,80.89,83.21,"HTML,CSS,JavaScript,React,Node.js","Web Development,Design,User Experience",Web Developer
+S0354,86.13,76.72,82.86,"PHP,MySQL,JavaScript,WordPress,CSS","Design,Development,Web,User Experience",Web Developer
+S0355,86.49,86.46,85.13,"HTML,CSS,JavaScript,Svelte,Node.js","Web Development,Design,User Experience",Web Developer
+S0356,89.05,86.15,79.71,"HTML,CSS,JavaScript,Angular,TypeScript","Design,Development,Web,User Experience",Web Developer
+S0357,83.8,81.59,75.53,"HTML,CSS,JavaScript,React,Redux","Web Development,Design,User Experience",Web Developer
+S0358,85.3,81.65,87.35,"HTML,CSS,JavaScript,React,Redux","Development,UI Design,Frontend,Responsive",Web Developer
+S0359,89.37,83.87,84.14,"HTML,CSS,JavaScript,Next.js,React","Development,Design,UI/UX,Frontend",Web Developer
+S0360,86.91,83.33,75.45,"HTML,CSS,JavaScript,Angular,TypeScript","Design,Development,Web,User Experience",Web Developer
+S0361,79.47,79.41,79.05,"HTML,CSS,JavaScript,React,Redux","Web Design,Development,Creativity,User Experience",Web Developer
+S0362,83.85,94.56,81.16,"HTML,CSS,JavaScript,Svelte,Node.js","Web Design,Development,Creativity,User Experience",Web Developer
+S0363,84.46,91.52,75.84,"HTML,CSS,JavaScript,Next.js,React","Development,UI Design,Frontend,Responsive",Web Developer
+S0364,86.25,86.23,75.55,"HTML,CSS,JavaScript,Vue.js,Firebase","Development,Design,UI/UX,Frontend",Web Developer
+S0365,89.26,85.64,89.85,"HTML,CSS,JavaScript,Next.js,React","Web Design,Development,Creativity,User Experience",Web Developer
+S0366,73.49,77.24,79.2,"HTML,CSS,JavaScript,React,Node.js","Development,Frontend,Design,Innovation",Web Developer
+S0367,74.11,76.35,73.86,"HTML,CSS,JavaScript,React,Node.js","Web Design,Development,Creativity,User Experience",Web Developer
+S0368,83.33,89.57,78.41,"HTML,CSS,JavaScript,jQuery,Bootstrap","Design,Development,Web,User Experience",Web Developer
+S0369,83.24,84.59,73.31,"HTML,CSS,JavaScript,React,Node.js","Web Design,Development,Creativity,User Experience",Web Developer
+S0370,83.0,78.43,79.29,"HTML,CSS,JavaScript,jQuery,Bootstrap","Web Design,Development,Creativity,User Experience",Web Developer
+S0371,90.18,80.29,84.39,"HTML,CSS,JavaScript,React,Node.js","Web Design,Development,Creativity,User Experience",Web Developer
+S0372,72.83,79.82,77.51,"HTML,CSS,JavaScript,Next.js,React","Development,Frontend,Design,Innovation",Web Developer
+S0373,85.55,81.88,72.42,"PHP,MySQL,JavaScript,WordPress,CSS","Development,Design,UI/UX,Frontend",Web Developer
+S0374,83.74,77.51,71.26,"PHP,MySQL,JavaScript,WordPress,CSS","Web Development,Design,User Experience",Web Developer
+S0375,78.47,75.68,71.03,"HTML,CSS,JavaScript,Vue.js,Firebase","Development,UI Design,Frontend,Responsive",Web Developer
+S0376,74.24,75.84,70.13,"HTML,CSS,JavaScript,Svelte,Node.js","Development,Design,UI/UX,Frontend",Web Developer
+S0377,88.66,76.86,81.21,"HTML,CSS,JavaScript,jQuery,Bootstrap","Web Development,Design,User Experience",Web Developer
+S0378,86.94,82.92,92.69,"HTML,CSS,JavaScript,Vue.js,Firebase","Web Development,Design,User Experience",Web Developer
+S0379,85.93,84.92,70.37,"HTML,CSS,JavaScript,Vue.js,Firebase","Development,UI Design,Frontend,Responsive",Web Developer
+S0380,79.56,91.58,76.53,"PHP,MySQL,JavaScript,WordPress,CSS","Development,Design,UI/UX,Frontend",Web Developer
+S0381,75.16,75.98,76.84,"HTML,CSS,JavaScript,jQuery,Bootstrap","Development,Frontend,Design,Innovation",Web Developer
+S0382,86.19,78.17,74.84,"HTML,CSS,JavaScript,Vue.js,Firebase","Development,Design,UI/UX,Frontend",Web Developer
+S0383,79.43,75.74,76.2,"HTML,CSS,JavaScript,Angular,TypeScript","Web Design,Development,Creativity,User Experience",Web Developer
+S0384,82.14,80.71,81.59,"HTML,CSS,JavaScript,React,Node.js","Web Development,Design,User Experience",Web Developer
+S0385,91.02,88.59,76.6,"PHP,MySQL,JavaScript,WordPress,CSS","Web Design,Development,Creativity,User Experience",Web Developer
+S0386,82.06,77.99,76.09,"HTML,CSS,JavaScript,Vue.js,Firebase","Development,Frontend,Design,Innovation",Web Developer
+S0387,81.4,84.02,75.12,"HTML,CSS,JavaScript,Next.js,React","Development,UI Design,Frontend,Responsive",Web Developer
+S0388,88.98,85.47,77.18,"HTML,CSS,JavaScript,Svelte,Node.js","Development,Design,UI/UX,Frontend",Web Developer
+S0389,77.53,74.16,80.87,"HTML,CSS,JavaScript,Angular,TypeScript","Development,Frontend,Design,Innovation",Web Developer
+S0390,85.09,85.37,82.73,"HTML,CSS,JavaScript,jQuery,Bootstrap","Development,Design,UI/UX,Frontend",Web Developer
+S0391,84.55,69.87,82.61,"HTML,CSS,JavaScript,React,Node.js","Design,Development,Web,User Experience",Web Developer
+S0392,82.67,76.56,79.32,"HTML,CSS,JavaScript,Svelte,Node.js","Development,UI Design,Frontend,Responsive",Web Developer
+S0393,92.71,91.75,88.51,"HTML,CSS,JavaScript,Next.js,React","Development,UI Design,Frontend,Responsive",Web Developer
+S0394,86.45,80.47,84.94,"HTML,CSS,JavaScript,jQuery,Bootstrap","Web Design,Development,Creativity,User Experience",Web Developer
+S0395,89.27,82.71,82.92,"HTML,CSS,JavaScript,Svelte,Node.js","Development,Frontend,Design,Innovation",Web Developer
+S0396,84.98,74.98,78.76,"HTML,CSS,JavaScript,Angular,TypeScript","Web Development,Design,User Experience",Web Developer
+S0397,76.6,73.79,74.16,"HTML,CSS,JavaScript,React,Redux","Web Design,Development,Creativity,User Experience",Web Developer
+S0398,80.52,80.77,75.97,"HTML,CSS,JavaScript,React,Node.js","Design,Development,Web,User Experience",Web Developer
+S0399,87.39,81.97,73.04,"HTML,CSS,JavaScript,Next.js,React","Development,Design,UI/UX,Frontend",Web Developer
+S0400,90.97,80.52,82.59,"HTML,CSS,JavaScript,Angular,TypeScript","Development,Frontend,Design,Innovation",Web Developer
+S0401,79.26,71.46,75.94,"Java,Spring,Microservices,Docker","Development,DevOps",Data Engineer
+S0402,85.23,81.17,81.55,"Python,SQL,Tableau,Statistics","Analysis,Visualization",Data Engineer
+S0403,87.18,88.02,84.01,"Python,ML,Cloud Computing,MLflow","Development,ML",Data Engineer
+S0404,91.75,86.42,77.77,"Python,SQL,Tableau,Statistics","Analysis,Visualization",Data Engineer
+S0405,89.05,86.37,80.17,"Python,SQL,Apache Iceberg,Data Lake","Development,Data",Data Engineer
+S0406,88.32,78.67,77.77,"Java,Spring Boot,Distributed Systems","Development,Backend",Data Engineer
+S0407,92.84,81.67,85.44,"Python,SQL,Apache Iceberg,Data Lake","Development,Data",Data Engineer
+S0408,77.05,83.96,78.63,"Java,Spring,Microservices,Docker","Development,DevOps",Data Engineer
+S0409,91.97,81.27,81.74,"Python,SQL,Apache Iceberg,Data Lake","Development,Data",Data Engineer
+S0410,92.53,76.9,72.3,"Python,SQL,Tableau,Statistics","Analysis,Visualization",Data Engineer
+S0411,91.43,85.4,82.16,"Python,SQL,Apache Iceberg,Data Lake","Development,Data",Data Engineer
+S0412,85.86,91.2,84.92,"Python,SQL,Apache Iceberg,Data Lake","Development,Data",Data Engineer
+S0413,87.17,87.1,86.17,"Python,SQL,Apache Iceberg,Data Lake","Development,Data",Data Engineer
+S0414,89.2,84.69,81.56,"Python,ML,Cloud Computing,MLflow","Development,ML",Data Engineer
+S0415,94.54,87.26,78.37,"Python,SQL,Tableau,Statistics","Analysis,Visualization",Data Engineer
+S0416,92.55,84.22,77.42,"Python,ML,Cloud Computing,MLflow","Development,ML",Data Engineer
+S0417,87.13,78.6,84.58,"Python,SQL,Apache Iceberg,Data Lake","Development,Data",Data Engineer
+S0418,90.19,84.45,79.06,"Python,SQL,Tableau,Statistics","Analysis,Visualization",Data Engineer
+S0419,88.01,86.47,80.78,"Python,ML,Cloud Computing,MLflow","Development,ML",Data Engineer
+S0420,94.03,86.74,75.77,"Python,ML,Cloud Computing,MLflow","Development,ML",Data Engineer
+S0421,87.04,80.58,81.94,"Python,SQL,Apache Iceberg,Data Lake","Development,Data",Data Engineer
+S0422,91.91,88.41,90.35,"Python,ML,Cloud Computing,MLflow","Development,ML",Data Engineer
+S0423,93.66,78.85,84.8,"Python,SQL,Tableau,Statistics","Analysis,Visualization",Data Engineer
+S0424,83.41,85.07,86.25,"Python,SQL,Apache Iceberg,Data Lake","Development,Data",Data Engineer
+S0425,80.92,81.82,80.7,"Java,Spring Boot,Distributed Systems","Development,Backend",Data Engineer
+S0426,90.15,80.82,80.45,"Python,SQL,Apache Iceberg,Data Lake","Development,Data",Data Engineer
+S0427,95.17,83.45,82.95,"Python,ML,Cloud Computing,MLflow","Development,ML",Data Engineer
+S0428,83.9,93.1,81.84,"Python,SQL,Apache Iceberg,Data Lake","Development,Data",Data Engineer
+S0429,86.19,80.0,79.96,"Python,SQL,Apache Iceberg,Data Lake","Development,Data",Data Engineer
+S0430,89.52,92.99,80.46,"Python,ML,Cloud Computing,MLflow","Development,ML",Data Engineer
+S0431,93.53,87.02,82.15,"Python,ML,Cloud Computing,MLflow","Development,ML",Data Engineer
+S0432,76.89,82.22,80.53,"Java,Spring Boot,Distributed Systems","Development,Backend",Data Engineer
+S0433,82.81,72.58,77.31,"Java,Spring,Microservices,Docker","Development,DevOps",Data Engineer
+S0434,84.12,74.22,65.5,"Java,Spring,Microservices,Docker","Development,DevOps",Data Engineer
+S0435,85.53,89.35,81.92,"Python,SQL,Tableau,Statistics","Analysis,Visualization",Data Engineer
+S0436,93.51,86.33,82.88,"Python,SQL,Tableau,Statistics","Analysis,Visualization",Data Engineer
+S0437,86.56,82.18,79.57,"Java,Spring Boot,Distributed Systems","Development,Backend",Data Engineer
+S0438,84.25,84.91,83.87,"Python,ML,Cloud Computing,MLflow","Development,ML",Data Engineer
+S0439,84.16,85.84,82.03,"Python,SQL,Apache Iceberg,Data Lake","Development,Data",Data Engineer
+S0440,86.96,78.29,75.92,"Python,SQL,Apache Iceberg,Data Lake","Development,Data",Data Engineer
+S0441,81.22,81.6,68.89,"Java,Spring,Microservices,Docker","Development,DevOps",Data Engineer
+S0442,83.17,72.63,77.18,"Java,Spring,Microservices,Docker","Development,DevOps",Data Engineer
+S0443,80.53,95.56,79.04,"Python,SQL,Apache Iceberg,Data Lake","Development,Data",Data Engineer
+S0444,89.23,93.07,79.95,"Python,ML,Cloud Computing,MLflow","Development,ML",Data Engineer
+S0445,94.78,88.71,75.87,"Python,ML,Cloud Computing,MLflow","Development,ML",Data Engineer
+S0446,86.03,87.34,79.22,"Python,SQL,Tableau,Statistics","Analysis,Visualization",Data Engineer
+S0447,84.62,78.99,77.73,"Java,Spring,Microservices,Docker","Development,DevOps",Data Engineer
+S0448,88.08,85.48,80.77,"Python,SQL,Apache Iceberg,Data Lake","Development,Data",Data Engineer
+S0449,94.64,83.73,79.36,"Python,SQL,Apache Iceberg,Data Lake","Development,Data",Data Engineer
+S0450,91.23,78.13,75.43,"Python,SQL,Apache Iceberg,Data Lake","Development,Data",Data Engineer
+S0451,83.78,74.83,74.0,"Python,SQL,Apache Pinot,Real-time BI","Development,BI",ML Engineer
+S0452,88.69,91.21,81.11,"Python,SQL,Power BI,Tableau","Analysis,Visualization",ML Engineer
+S0453,85.79,83.24,80.5,"Python,SQL,Apache Pinot,Real-time BI","Development,BI",ML Engineer
+S0454,91.21,89.75,81.03,"Python,ML,Cloud Computing,AWS","Development,Cloud",ML Engineer
+S0455,78.6,77.14,73.75,"HTML,CSS,JavaScript,Next.js","Design,Development",ML Engineer
+S0456,74.33,80.64,71.24,"HTML,CSS,JavaScript,Next.js","Design,Development",ML Engineer
+S0457,91.48,88.21,81.26,"Python,ML,Cloud Computing,AWS","Development,Cloud",ML Engineer
+S0458,90.32,85.23,74.45,"Python,SQL,Power BI,Tableau","Analysis,Visualization",ML Engineer
+S0459,89.41,84.4,86.08,"Python,ML,Cloud Computing,MLflow","Development,ML",ML Engineer
+S0460,89.28,84.35,76.9,"Python,ML,Cloud Computing,MLflow","Development,ML",ML Engineer
+S0461,82.17,90.85,78.21,"Python,SQL,Power BI,Tableau","Analysis,Visualization",ML Engineer
+S0462,96.96,87.02,85.62,"Python,ML,Cloud Computing,AWS","Development,Cloud",ML Engineer
+S0463,81.66,82.13,79.19,"Python,SQL,Power BI,Tableau","Analysis,Visualization",ML Engineer
+S0464,86.68,87.51,83.28,"Python,SQL,Power BI,Tableau","Analysis,Visualization",ML Engineer
+S0465,90.97,92.35,83.88,"Python,ML,Cloud Computing,AWS","Development,Cloud",ML Engineer
+S0466,76.9,74.67,69.61,"HTML,CSS,JavaScript,Next.js","Design,Development",ML Engineer
+S0467,93.07,80.51,77.39,"Python,SQL,Apache Pinot,Real-time BI","Development,BI",ML Engineer
+S0468,89.55,82.75,85.13,"Python,SQL,Apache Pinot,Real-time BI","Development,BI",ML Engineer
+S0469,90.72,89.2,81.99,"Python,ML,Cloud Computing,MLflow","Development,ML",ML Engineer
+S0470,89.24,88.48,71.53,"Python,SQL,Power BI,Tableau","Analysis,Visualization",ML Engineer
+S0471,73.07,77.66,69.64,"HTML,CSS,JavaScript,Next.js","Design,Development",ML Engineer
+S0472,87.58,85.85,85.06,"Python,ML,Cloud Computing,MLflow","Development,ML",ML Engineer
+S0473,93.72,88.35,80.0,"Python,ML,Cloud Computing,AWS","Development,Cloud",ML Engineer
+S0474,84.41,90.71,76.63,"Python,SQL,Power BI,Tableau","Analysis,Visualization",ML Engineer
+S0475,83.34,80.5,75.39,"Python,SQL,Power BI,Tableau","Analysis,Visualization",ML Engineer
+S0476,83.98,87.25,72.58,"Python,SQL,Power BI,Tableau","Analysis,Visualization",ML Engineer
+S0477,78.81,68.69,75.41,"HTML,CSS,JavaScript,Next.js","Design,Development",ML Engineer
+S0478,96.63,86.45,80.48,"Python,SQL,Apache Pinot,Real-time BI","Development,BI",ML Engineer
+S0479,87.11,87.04,75.55,"Python,SQL,Apache Pinot,Real-time BI","Development,BI",ML Engineer
+S0480,75.14,75.32,66.2,"HTML,CSS,JavaScript,Next.js","Design,Development",ML Engineer
+S0481,86.05,90.04,85.0,"Python,ML,Cloud Computing,AWS","Development,Cloud",ML Engineer
+S0482,85.42,81.7,76.62,"Python,SQL,Power BI,Tableau","Analysis,Visualization",ML Engineer
+S0483,96.15,81.13,83.25,"Python,ML,Cloud Computing,AWS","Development,Cloud",ML Engineer
+S0484,85.05,82.62,85.23,"Python,SQL,Apache Pinot,Real-time BI","Development,BI",ML Engineer
+S0485,96.15,80.13,79.22,"Python,ML,Cloud Computing,MLflow","Development,ML",ML Engineer
+S0486,84.42,84.62,73.47,"Python,SQL,Power BI,Tableau","Analysis,Visualization",ML Engineer
+S0487,86.47,85.28,79.61,"Python,ML,Cloud Computing,AWS","Development,Cloud",ML Engineer
+S0488,83.27,78.02,76.53,"Python,SQL,Power BI,Tableau","Analysis,Visualization",ML Engineer
+S0489,83.42,93.35,81.09,"Python,SQL,Apache Pinot,Real-time BI","Development,BI",ML Engineer
+S0490,90.53,85.48,73.45,"Python,SQL,Power BI,Tableau","Analysis,Visualization",ML Engineer
+S0491,72.96,64.59,78.65,"HTML,CSS,JavaScript,Next.js","Design,Development",ML Engineer
+S0492,85.12,83.29,77.21,"Python,SQL,Power BI,Tableau","Analysis,Visualization",ML Engineer
+S0493,87.39,86.13,82.11,"Python,SQL,Apache Pinot,Real-time BI","Development,BI",ML Engineer
+S0494,96.03,85.1,85.35,"Python,ML,Cloud Computing,AWS","Development,Cloud",ML Engineer
+S0495,94.06,87.97,79.64,"Python,SQL,Apache Pinot,Real-time BI","Development,BI",ML Engineer
+S0496,91.31,84.32,84.74,"Python,SQL,Power BI,Tableau","Analysis,Visualization",ML Engineer
+S0497,96.86,83.81,82.83,"Python,ML,Cloud Computing,AWS","Development,Cloud",ML Engineer
+S0498,86.4,81.13,72.64,"Python,SQL,Power BI,Tableau","Analysis,Visualization",ML Engineer
+S0499,85.67,81.99,76.61,"Python,SQL,Apache Pinot,Real-time BI","Development,BI",ML Engineer
+S0500,85.65,88.36,82.07,"Python,SQL,Power BI,Tableau","Analysis,Visualization",ML Engineer
+S0501,87.84,86.48,78.26,"Python,SQL,Statistics,Prophet","Analysis,Forecasting",Backend Developer
+S0502,82.74,81.22,75.93,"Java,Spring Boot,Microservices","Development,Architecture",Backend Developer
+S0503,94.33,92.48,89.14,"Python,ML,Deep Learning,NLP","Research,Innovation",Backend Developer
+S0504,76.6,79.68,80.82,"Java,Spring Boot,Microservices","Development,Architecture",Backend Developer
+S0505,94.5,98.31,88.88,"Python,ML,Deep Learning,NLP","Research,Innovation",Backend Developer
+S0506,84.97,83.28,76.95,"Java,Spring Boot,Microservices","Development,Architecture",Backend Developer
+S0507,85.8,82.01,75.62,"Java,Spring Boot,Microservices","Development,Architecture",Backend Developer
+S0508,96.28,94.45,81.5,"Python,ML,Deep Learning,Neural Architecture Search","Research,Innovation",Backend Developer
+S0509,81.82,76.84,77.1,"Java,Spring Boot,Microservices","Development,Architecture",Backend Developer
+S0510,95.32,94.58,89.79,"Python,ML,Deep Learning,NLP","Research,Innovation",Backend Developer
+S0511,88.52,85.72,88.91,"Python,ML,Deep Learning,Neural Architecture Search","Research,Innovation",Backend Developer
+S0512,82.03,81.99,77.9,"Java,Spring Boot,Microservices","Development,Architecture",Backend Developer
+S0513,86.14,87.64,87.91,"Python,SQL,Statistics,Prophet","Analysis,Forecasting",Backend Developer
+S0514,89.58,85.7,89.21,"Python,ML,Deep Learning,Neural Architecture Search","Research,Innovation",Backend Developer
+S0515,91.15,93.94,88.82,"Python,ML,Deep Learning,NLP","Research,Innovation",Backend Developer
+S0516,94.84,95.27,80.8,"Python,ML,Deep Learning,NLP","Research,Innovation",Backend Developer
+S0517,93.17,87.46,78.7,"Python,ML,Deep Learning,Neural ODEs","Research,Innovation",Backend Developer
+S0518,89.09,96.36,81.34,"Python,ML,Deep Learning,NLP","Research,Innovation",Backend Developer
+S0519,87.85,92.33,83.76,"Python,ML,Deep Learning,Neural Architecture Search","Research,Innovation",Backend Developer
+S0520,83.32,79.47,76.89,"Java,Spring Boot,Microservices","Development,Architecture",Backend Developer
+S0521,87.07,79.59,78.33,"Python,SQL,Statistics,Prophet","Analysis,Forecasting",Backend Developer
+S0522,93.87,92.03,85.15,"Python,ML,Deep Learning,NLP","Research,Innovation",Backend Developer
+S0523,80.36,78.77,83.33,"Python,SQL,Statistics,Prophet","Analysis,Forecasting",Backend Developer
+S0524,80.63,77.13,77.55,"Python,SQL,Statistics,Prophet","Analysis,Forecasting",Backend Developer
+S0525,80.46,83.74,85.27,"Python,SQL,Statistics,Prophet","Analysis,Forecasting",Backend Developer
+S0526,90.53,88.63,85.14,"Python,SQL,Statistics,Prophet","Analysis,Forecasting",Backend Developer
+S0527,93.92,86.14,79.98,"Python,ML,Deep Learning,Neural ODEs","Research,Innovation",Backend Developer
+S0528,87.74,84.28,81.87,"Python,SQL,Statistics,Prophet","Analysis,Forecasting",Backend Developer
+S0529,91.16,83.95,90.97,"Python,ML,Deep Learning,Neural Architecture Search","Research,Innovation",Backend Developer
+S0530,89.61,90.72,90.5,"Python,ML,Deep Learning,Neural ODEs","Research,Innovation",Backend Developer
+S0531,84.51,80.12,80.34,"Java,Spring Boot,Microservices","Development,Architecture",Backend Developer
+S0532,99.25,80.11,82.02,"Python,ML,Deep Learning,Neural Architecture Search","Research,Innovation",Backend Developer
+S0533,84.86,85.68,83.34,"Python,SQL,Statistics,Prophet","Analysis,Forecasting",Backend Developer
+S0534,81.57,85.64,73.87,"Java,Spring Boot,Microservices","Development,Architecture",Backend Developer
+S0535,86.01,88.53,90.88,"Python,ML,Deep Learning,Neural Architecture Search","Research,Innovation",Backend Developer
+S0536,90.82,83.1,74.44,"Java,Spring Boot,Microservices","Development,Architecture",Backend Developer
+S0537,87.52,85.51,83.26,"Python,SQL,Statistics,Prophet","Analysis,Forecasting",Backend Developer
+S0538,93.51,92.3,84.29,"Python,ML,Deep Learning,NLP","Research,Innovation",Backend Developer
+S0539,85.13,93.16,83.65,"Python,ML,Deep Learning,Neural ODEs","Research,Innovation",Backend Developer
+S0540,88.24,78.38,82.01,"Java,Spring Boot,Microservices","Development,Architecture",Backend Developer
+S0541,85.75,79.19,84.31,"Java,Spring Boot,Microservices","Development,Architecture",Backend Developer
+S0542,94.44,96.84,84.41,"Python,ML,Deep Learning,NLP","Research,Innovation",Backend Developer
+S0543,93.4,89.76,86.53,"Python,ML,Deep Learning,Neural Architecture Search","Research,Innovation",Backend Developer
+S0544,98.19,90.28,85.91,"Python,ML,Deep Learning,NLP","Research,Innovation",Backend Developer
+S0545,94.07,83.15,80.09,"Python,ML,Deep Learning,Neural ODEs","Research,Innovation",Backend Developer
+S0546,82.24,81.68,76.01,"Java,Spring Boot,Microservices","Development,Architecture",Backend Developer
+S0547,86.0,85.43,84.31,"Java,Spring Boot,Microservices","Development,Architecture",Backend Developer
+S0548,94.67,90.31,88.6,"Python,ML,Deep Learning,Neural Architecture Search","Research,Innovation",Backend Developer
+S0549,91.27,86.4,85.78,"Python,ML,Deep Learning,Neural ODEs","Research,Innovation",Backend Developer
+S0550,82.32,75.27,72.54,"Java,Spring Boot,Microservices","Development,Architecture",Backend Developer
+S0551,78.47,75.04,71.05,"Python,Flask,SQLAlchemy,AsyncIO","Development,Backend",Research Scientist
+S0552,90.38,88.13,83.07,"Python,R,Statistics,SQL","Research,Analysis",Research Scientist
+S0553,81.65,82.59,79.91,"Java,Spring Boot,PostgreSQL,Redis","Development,Backend",Research Scientist
+S0554,83.0,75.7,71.66,"Java,Spring Boot,PostgreSQL,Redis","Development,Backend",Research Scientist
+S0555,88.56,88.63,85.11,"Python,ML,Deep Learning,Transformers","Research,Innovation",Research Scientist
+S0556,83.86,89.08,77.16,"Java,Spring Boot,PostgreSQL,Redis","Development,Backend",Research Scientist
+S0557,80.36,76.19,77.05,"Python,Flask,SQLAlchemy,AsyncIO","Development,Backend",Research Scientist
+S0558,83.37,76.63,79.04,"Python,Flask,SQLAlchemy,AsyncIO","Development,Backend",Research Scientist
+S0559,74.82,79.11,75.09,"Python,Flask,SQLAlchemy,AsyncIO","Development,Backend",Research Scientist
+S0560,100.0,87.64,91.93,"Python,ML,Deep Learning,Transformers","Research,Innovation",Research Scientist
+S0561,81.99,78.1,71.45,"Python,Flask,SQLAlchemy,AsyncIO","Development,Backend",Research Scientist
+S0562,83.7,75.28,79.88,"Python,Flask,SQLAlchemy,AsyncIO","Development,Backend",Research Scientist
+S0563,90.97,95.87,88.71,"Python,ML,Deep Learning,Transformers","Research,Innovation",Research Scientist
+S0564,84.17,76.25,69.31,"JavaScript,React,Next.js,Serverless","Development,Frontend",Research Scientist
+S0565,87.41,77.95,78.87,"Python,R,Statistics,SQL","Research,Analysis",Research Scientist
+S0566,84.37,84.44,81.39,"Python,R,Statistics,SQL","Research,Analysis",Research Scientist
+S0567,83.87,80.21,77.88,"JavaScript,React,Next.js,Serverless","Development,Frontend",Research Scientist
+S0568,72.66,79.38,74.57,"Python,Flask,SQLAlchemy,AsyncIO","Development,Backend",Research Scientist
+S0569,98.31,92.23,88.1,"Python,ML,Deep Learning,Transformers","Research,Innovation",Research Scientist
+S0570,85.32,79.13,77.68,"Python,Flask,SQLAlchemy,AsyncIO","Development,Backend",Research Scientist
+S0571,78.69,79.26,70.3,"Python,Flask,SQLAlchemy,AsyncIO","Development,Backend",Research Scientist
+S0572,84.95,75.15,73.58,"Python,Flask,SQLAlchemy,AsyncIO","Development,Backend",Research Scientist
+S0573,92.38,91.97,86.69,"Python,ML,Deep Learning,Transformers","Research,Innovation",Research Scientist
+S0574,79.08,76.55,71.32,"Java,Spring Boot,PostgreSQL,Redis","Development,Backend",Research Scientist
+S0575,79.87,82.16,79.31,"Java,Spring Boot,PostgreSQL,Redis","Development,Backend",Research Scientist
+S0576,77.97,75.46,69.96,"Python,Flask,SQLAlchemy,AsyncIO","Development,Backend",Research Scientist
+S0577,85.21,77.69,72.27,"Python,Flask,SQLAlchemy,AsyncIO","Development,Backend",Research Scientist
+S0578,85.28,84.49,72.43,"Java,Spring Boot,PostgreSQL,Redis","Development,Backend",Research Scientist
+S0579,89.83,80.22,77.18,"JavaScript,React,Next.js,Serverless","Development,Frontend",Research Scientist
+S0580,75.72,74.12,74.34,"Python,Flask,SQLAlchemy,AsyncIO","Development,Backend",Research Scientist
+S0581,100.0,88.55,92.33,"Python,ML,Deep Learning,Transformers","Research,Innovation",Research Scientist
+S0582,86.22,79.57,68.95,"Java,Spring Boot,PostgreSQL,Redis","Development,Backend",Research Scientist
+S0583,79.09,75.83,76.93,"JavaScript,React,Next.js,Serverless","Development,Frontend",Research Scientist
+S0584,92.4,92.45,88.16,"Python,ML,Deep Learning,Transformers","Research,Innovation",Research Scientist
+S0585,80.14,73.57,71.32,"Python,Flask,SQLAlchemy,AsyncIO","Development,Backend",Research Scientist
+S0586,81.7,71.8,75.21,"JavaScript,React,Next.js,Serverless","Development,Frontend",Research Scientist
+S0587,72.99,67.97,81.64,"JavaScript,React,Next.js,Serverless","Development,Frontend",Research Scientist
+S0588,77.49,77.35,66.4,"JavaScript,React,Next.js,Serverless","Development,Frontend",Research Scientist
+S0589,74.98,79.68,71.95,"JavaScript,React,Next.js,Serverless","Development,Frontend",Research Scientist
+S0590,81.74,81.78,75.49,"JavaScript,React,Next.js,Serverless","Development,Frontend",Research Scientist
+S0591,90.0,81.42,81.5,"Python,R,Statistics,SQL","Research,Analysis",Research Scientist
+S0592,77.72,83.21,67.86,"JavaScript,React,Next.js,Serverless","Development,Frontend",Research Scientist
+S0593,76.89,80.27,76.43,"Java,Spring Boot,PostgreSQL,Redis","Development,Backend",Research Scientist
+S0594,93.62,92.58,83.83,"Python,ML,Deep Learning,Transformers","Research,Innovation",Research Scientist
+S0595,86.71,87.66,80.88,"Java,Spring Boot,PostgreSQL,Redis","Development,Backend",Research Scientist
+S0596,77.75,80.82,76.45,"JavaScript,React,Next.js,Serverless","Development,Frontend",Research Scientist
+S0597,98.42,87.97,89.7,"Python,ML,Deep Learning,Transformers","Research,Innovation",Research Scientist
+S0598,89.68,88.63,81.74,"Python,ML,Deep Learning,Transformers","Research,Innovation",Research Scientist
+S0599,86.86,81.47,82.92,"Python,R,Statistics,SQL","Research,Analysis",Research Scientist
+S0600,93.85,92.87,83.84,"Python,ML,Deep Learning,Transformers","Research,Innovation",Research Scientist
+S0601,80.5,74.94,73.55,"Java,Spring,Microservices,Event Streaming","Development,Real-time",Frontend Developer
+S0602,74.63,82.86,81.59,"Java,Spring,Microservices,Event Streaming","Development,Real-time",Frontend Developer
+S0603,81.09,75.19,73.22,"Java,Spring,Microservices,Event Streaming","Development,Real-time",Frontend Developer
+S0604,90.26,86.07,78.43,"Python,R,Statistics,SQL","Research,Analysis",Frontend Developer
+S0605,80.45,64.7,71.82,"HTML,CSS,JavaScript,React","Design,Development",Frontend Developer
+S0606,86.27,92.35,83.95,"Python,SQL,Apache Kafka,Event Streaming","Development,Data",Frontend Developer
+S0607,74.5,78.3,81.14,"Java,Spring,Microservices,Event Streaming","Development,Real-time",Frontend Developer
+S0608,81.27,91.32,78.91,"Python,R,Statistics,SQL","Research,Analysis",Frontend Developer
+S0609,79.79,79.4,69.61,"Java,Spring,Microservices,Event Streaming","Development,Real-time",Frontend Developer
+S0610,78.45,71.0,74.72,"HTML,CSS,JavaScript,React","Design,Development",Frontend Developer
+S0611,79.73,78.84,71.71,"Java,Spring,Microservices,Event Streaming","Development,Real-time",Frontend Developer
+S0612,88.18,89.54,82.7,"Python,SQL,Apache Kafka,Event Streaming","Development,Data",Frontend Developer
+S0613,84.59,71.28,66.35,"Java,Spring,Microservices,Event Streaming","Development,Real-time",Frontend Developer
+S0614,80.34,73.13,71.93,"Java,Spring,Microservices,Event Streaming","Development,Real-time",Frontend Developer
+S0615,77.28,70.87,74.27,"HTML,CSS,JavaScript,React","Design,Development",Frontend Developer
+S0616,80.83,73.92,73.51,"Java,Spring,Microservices,Event Streaming","Development,Real-time",Frontend Developer
+S0617,80.72,68.91,74.68,"Java,Spring,Microservices,Event Streaming","Development,Real-time",Frontend Developer
+S0618,81.22,71.75,74.99,"Java,Spring,Microservices,Event Streaming","Development,Real-time",Frontend Developer
+S0619,86.53,87.25,81.74,"Python,R,Statistics,SQL","Research,Analysis",Frontend Developer
+S0620,86.47,82.12,77.03,"Python,SQL,Apache Pulsar,Event Streaming","Development,Real-time",Frontend Developer
+S0621,86.2,87.87,77.66,"Python,R,Statistics,SQL","Research,Analysis",Frontend Developer
+S0622,83.05,83.63,77.41,"Python,SQL,Apache Kafka,Event Streaming","Development,Data",Frontend Developer
+S0623,82.14,68.2,74.16,"HTML,CSS,JavaScript,React","Design,Development",Frontend Developer
+S0624,76.52,74.57,72.14,"Java,Spring,Microservices,Event Streaming","Development,Real-time",Frontend Developer
+S0625,71.73,71.83,79.49,"HTML,CSS,JavaScript,React","Design,Development",Frontend Developer
+S0626,91.69,85.06,79.06,"Python,R,Statistics,SQL","Research,Analysis",Frontend Developer
+S0627,70.94,72.1,66.87,"HTML,CSS,JavaScript,React","Design,Development",Frontend Developer
+S0628,89.79,86.77,81.66,"Python,R,Statistics,SQL","Research,Analysis",Frontend Developer
+S0629,96.2,85.45,85.13,"Python,SQL,Apache Kafka,Event Streaming","Development,Data",Frontend Developer
+S0630,80.26,73.28,80.88,"Java,Spring,Microservices,Event Streaming","Development,Real-time",Frontend Developer
+S0631,85.72,86.82,89.82,"Python,R,Statistics,SQL","Research,Analysis",Frontend Developer
+S0632,72.05,64.89,68.74,"HTML,CSS,JavaScript,React","Design,Development",Frontend Developer
+S0633,91.03,80.93,70.35,"Python,SQL,Apache Pulsar,Event Streaming","Development,Real-time",Frontend Developer
+S0634,76.27,68.07,68.69,"Java,Spring,Microservices,Event Streaming","Development,Real-time",Frontend Developer
+S0635,86.08,83.61,81.91,"Python,SQL,Apache Kafka,Event Streaming","Development,Data",Frontend Developer
+S0636,83.56,77.1,73.21,"Java,Spring,Microservices,Event Streaming","Development,Real-time",Frontend Developer
+S0637,82.53,81.93,79.03,"Python,SQL,Apache Pulsar,Event Streaming","Development,Real-time",Frontend Developer
+S0638,91.03,94.9,84.61,"Python,R,Statistics,SQL","Research,Analysis",Frontend Developer
+S0639,81.94,82.21,81.92,"Python,SQL,Apache Pulsar,Event Streaming","Development,Real-time",Frontend Developer
+S0640,80.83,72.26,65.75,"HTML,CSS,JavaScript,React","Design,Development",Frontend Developer
+S0641,82.03,78.6,74.23,"Java,Spring,Microservices,Event Streaming","Development,Real-time",Frontend Developer
+S0642,83.11,80.3,73.33,"Python,SQL,Apache Kafka,Event Streaming","Development,Data",Frontend Developer
+S0643,71.38,72.68,69.11,"HTML,CSS,JavaScript,React","Design,Development",Frontend Developer
+S0644,82.07,73.13,69.48,"HTML,CSS,JavaScript,React","Design,Development",Frontend Developer
+S0645,84.53,80.14,73.54,"Python,SQL,Apache Pulsar,Event Streaming","Development,Real-time",Frontend Developer
+S0646,85.81,88.8,83.6,"Python,SQL,Apache Pulsar,Event Streaming","Development,Real-time",Frontend Developer
+S0647,81.67,70.07,72.26,"HTML,CSS,JavaScript,React","Design,Development",Frontend Developer
+S0648,76.99,76.71,72.06,"Java,Spring,Microservices,Event Streaming","Development,Real-time",Frontend Developer
+S0649,85.01,85.25,73.82,"Python,SQL,Apache Pulsar,Event Streaming","Development,Real-time",Frontend Developer
+S0650,84.4,83.9,71.92,"Java,Spring,Microservices,Event Streaming","Development,Real-time",Frontend Developer
+S0651,90.63,85.92,82.39,"Python,SQL,Excel,Power BI","Business,Analysis",Business Intelligence Analyst
+S0652,86.11,80.45,79.93,"Python,SQL,Apache Superset,Metabase","Analysis,Visualization",Business Intelligence Analyst
+S0653,83.46,84.11,82.27,"Python,SQL,Excel,Power BI","Business,Analysis",Business Intelligence Analyst
+S0654,80.37,80.52,80.09,"Python,Flask,SQLAlchemy,PostgreSQL","Development,Backend",Business Intelligence Analyst
+S0655,83.07,84.15,82.2,"Python,SQL,Excel,Power BI","Business,Analysis",Business Intelligence Analyst
+S0656,95.61,84.18,78.87,"Python,ML,Cloud Computing,MLOps","Development,ML",Business Intelligence Analyst
+S0657,92.59,83.46,85.42,"Python,ML,Cloud Computing,MLOps","Development,ML",Business Intelligence Analyst
+S0658,88.47,75.77,75.67,"Python,SQL,Apache Superset,Metabase","Analysis,Visualization",Business Intelligence Analyst
+S0659,84.71,82.61,79.18,"Python,Flask,SQLAlchemy,PostgreSQL","Development,Backend",Business Intelligence Analyst
+S0660,83.3,87.49,77.09,"Python,SQL,Excel,Power BI","Business,Analysis",Business Intelligence Analyst
+S0661,79.0,83.84,75.31,"Python,SQL,Apache Superset,Metabase","Analysis,Visualization",Business Intelligence Analyst
+S0662,80.73,82.19,83.34,"Python,ML,Cloud Computing,MLOps","Development,ML",Business Intelligence Analyst
+S0663,86.91,82.6,80.78,"Python,SQL,Excel,Power BI","Business,Analysis",Business Intelligence Analyst
+S0664,90.93,75.3,82.62,"Python,SQL,Apache Superset,Metabase","Analysis,Visualization",Business Intelligence Analyst
+S0665,83.13,79.01,71.46,"Python,Flask,SQLAlchemy,PostgreSQL","Development,Backend",Business Intelligence Analyst
+S0666,88.66,75.24,77.36,"Python,Flask,SQLAlchemy,PostgreSQL","Development,Backend",Business Intelligence Analyst
+S0667,82.9,80.12,74.32,"Python,Flask,SQLAlchemy,PostgreSQL","Development,Backend",Business Intelligence Analyst
+S0668,92.64,80.84,83.55,"Python,ML,Cloud Computing,MLOps","Development,ML",Business Intelligence Analyst
+S0669,88.67,83.39,79.14,"Python,SQL,Apache Superset,Metabase","Analysis,Visualization",Business Intelligence Analyst
+S0670,88.45,83.63,81.62,"Python,ML,Cloud Computing,MLOps","Development,ML",Business Intelligence Analyst
+S0671,86.99,83.43,79.94,"Python,SQL,Excel,Power BI","Business,Analysis",Business Intelligence Analyst
+S0672,84.09,85.13,79.18,"Python,ML,Cloud Computing,MLOps","Development,ML",Business Intelligence Analyst
+S0673,91.12,85.16,86.73,"Python,ML,Cloud Computing,MLOps","Development,ML",Business Intelligence Analyst
+S0674,84.76,85.72,85.08,"Python,SQL,Excel,Power BI","Business,Analysis",Business Intelligence Analyst
+S0675,92.1,83.15,77.03,"Python,SQL,Apache Superset,Metabase","Analysis,Visualization",Business Intelligence Analyst
+S0676,91.82,83.13,79.09,"Python,ML,Cloud Computing,MLOps","Development,ML",Business Intelligence Analyst
+S0677,84.53,91.56,80.28,"Python,ML,Cloud Computing,MLOps","Development,ML",Business Intelligence Analyst
+S0678,84.63,84.99,80.96,"Python,ML,Cloud Computing,MLOps","Development,ML",Business Intelligence Analyst
+S0679,84.47,81.99,75.7,"Python,ML,Cloud Computing,MLOps","Development,ML",Business Intelligence Analyst
+S0680,88.92,78.78,75.68,"Python,SQL,Apache Superset,Metabase","Analysis,Visualization",Business Intelligence Analyst
+S0681,89.33,80.6,77.49,"Python,ML,Cloud Computing,MLOps","Development,ML",Business Intelligence Analyst
+S0682,82.16,82.66,76.51,"Python,SQL,Excel,Power BI","Business,Analysis",Business Intelligence Analyst
+S0683,87.01,80.32,83.71,"Python,SQL,Apache Superset,Metabase","Analysis,Visualization",Business Intelligence Analyst
+S0684,91.06,84.39,76.99,"Python,ML,Cloud Computing,MLOps","Development,ML",Business Intelligence Analyst
+S0685,87.8,84.71,83.02,"Python,SQL,Excel,Power BI","Business,Analysis",Business Intelligence Analyst
+S0686,91.57,84.76,78.41,"Python,ML,Cloud Computing,MLOps","Development,ML",Business Intelligence Analyst
+S0687,88.52,83.24,83.8,"Python,ML,Cloud Computing,MLOps","Development,ML",Business Intelligence Analyst
+S0688,91.41,86.55,78.49,"Python,ML,Cloud Computing,MLOps","Development,ML",Business Intelligence Analyst
+S0689,93.43,84.91,81.29,"Python,SQL,Excel,Power BI","Business,Analysis",Business Intelligence Analyst
+S0690,83.28,86.92,77.7,"Python,SQL,Apache Superset,Metabase","Analysis,Visualization",Business Intelligence Analyst
+S0691,84.68,84.04,77.44,"Python,ML,Cloud Computing,MLOps","Development,ML",Business Intelligence Analyst
+S0692,90.91,78.41,78.38,"Python,Flask,SQLAlchemy,PostgreSQL","Development,Backend",Business Intelligence Analyst
+S0693,83.57,85.05,83.73,"Python,ML,Cloud Computing,MLOps","Development,ML",Business Intelligence Analyst
+S0694,90.68,88.68,74.7,"Python,SQL,Excel,Power BI","Business,Analysis",Business Intelligence Analyst
+S0695,82.05,76.48,79.74,"Python,ML,Cloud Computing,MLOps","Development,ML",Business Intelligence Analyst
+S0696,89.44,85.26,80.45,"Python,SQL,Excel,Power BI","Business,Analysis",Business Intelligence Analyst
+S0697,88.81,84.41,79.3,"Python,ML,Cloud Computing,MLOps","Development,ML",Business Intelligence Analyst
+S0698,83.56,93.15,82.2,"Python,ML,Cloud Computing,MLOps","Development,ML",Business Intelligence Analyst
+S0699,88.3,82.77,70.66,"Python,SQL,Excel,Power BI","Business,Analysis",Business Intelligence Analyst
+S0700,88.28,83.72,78.83,"Python,SQL,Excel,Power BI","Business,Analysis",Business Intelligence Analyst
+S0701,90.59,86.94,82.69,"Python,ML,Cloud Computing,Vertex AI","Development,ML",Deep Learning Engineer
+S0702,89.36,93.32,89.18,"Python,ML,Cloud Computing,Vertex AI","Development,ML",Deep Learning Engineer
+S0703,77.4,80.58,79.12,"Java,Spring Boot,Reactive Programming","Development,Backend",Deep Learning Engineer
+S0704,97.94,92.22,86.15,"Python,ML,Deep Learning,PyTorch","Research,Innovation",Deep Learning Engineer
+S0705,86.6,98.09,82.22,"Python,ML,Deep Learning,PyTorch","Research,Innovation",Deep Learning Engineer
+S0706,85.75,79.48,78.27,"Java,Spring Boot,Reactive Programming","Development,Backend",Deep Learning Engineer
+S0707,87.68,83.08,82.55,"Python,ML,Cloud Computing,Vertex AI","Development,ML",Deep Learning Engineer
+S0708,82.09,81.9,77.82,"Java,Spring Boot,Reactive Programming","Development,Backend",Deep Learning Engineer
+S0709,85.98,85.61,74.89,"HTML,CSS,JavaScript,Progressive Web Apps","Design,Development",Deep Learning Engineer
+S0710,85.28,82.45,78.98,"Java,Spring Boot,Reactive Programming","Development,Backend",Deep Learning Engineer
+S0711,86.48,78.0,79.25,"HTML,CSS,JavaScript,Progressive Web Apps","Design,Development",Deep Learning Engineer
+S0712,85.83,87.42,84.71,"Python,ML,Cloud Computing,MLOps","Development,ML",Deep Learning Engineer
+S0713,86.03,85.04,83.77,"Python,ML,Cloud Computing,Vertex AI","Development,ML",Deep Learning Engineer
+S0714,81.84,79.76,78.82,"Java,Spring Boot,Reactive Programming","Development,Backend",Deep Learning Engineer
+S0715,81.62,81.04,75.44,"HTML,CSS,JavaScript,Progressive Web Apps","Design,Development",Deep Learning Engineer
+S0716,87.92,76.23,80.7,"Java,Spring Boot,Reactive Programming","Development,Backend",Deep Learning Engineer
+S0717,89.18,93.98,82.21,"Python,ML,Cloud Computing,MLOps","Development,ML",Deep Learning Engineer
+S0718,83.19,82.02,79.01,"Java,Spring Boot,Reactive Programming","Development,Backend",Deep Learning Engineer
+S0719,91.57,86.86,84.45,"Python,ML,Cloud Computing,MLOps","Development,ML",Deep Learning Engineer
+S0720,79.56,76.55,82.67,"Java,Spring Boot,Reactive Programming","Development,Backend",Deep Learning Engineer
+S0721,84.81,84.8,77.0,"HTML,CSS,JavaScript,Progressive Web Apps","Design,Development",Deep Learning Engineer
+S0722,94.81,91.15,89.49,"Python,ML,Deep Learning,PyTorch","Research,Innovation",Deep Learning Engineer
+S0723,86.89,91.08,89.94,"Python,ML,Cloud Computing,MLOps","Development,ML",Deep Learning Engineer
+S0724,98.14,91.59,85.16,"Python,ML,Deep Learning,PyTorch","Research,Innovation",Deep Learning Engineer
+S0725,90.68,95.91,86.58,"Python,ML,Deep Learning,PyTorch","Research,Innovation",Deep Learning Engineer
+S0726,96.32,89.5,83.91,"Python,ML,Cloud Computing,MLOps","Development,ML",Deep Learning Engineer
+S0727,91.76,84.76,90.73,"Python,ML,Cloud Computing,MLOps","Development,ML",Deep Learning Engineer
+S0728,90.43,90.37,83.8,"Python,ML,Cloud Computing,MLOps","Development,ML",Deep Learning Engineer
+S0729,95.32,90.9,85.84,"Python,ML,Cloud Computing,MLOps","Development,ML",Deep Learning Engineer
+S0730,82.18,86.38,79.17,"Python,ML,Cloud Computing,MLOps","Development,ML",Deep Learning Engineer
+S0731,80.0,76.66,84.61,"Java,Spring Boot,Reactive Programming","Development,Backend",Deep Learning Engineer
+S0732,97.6,84.15,85.19,"Python,ML,Cloud Computing,MLOps","Development,ML",Deep Learning Engineer
+S0733,79.81,76.22,73.24,"HTML,CSS,JavaScript,Progressive Web Apps","Design,Development",Deep Learning Engineer
+S0734,76.83,81.5,80.12,"HTML,CSS,JavaScript,Progressive Web Apps","Design,Development",Deep Learning Engineer
+S0735,87.26,82.58,80.88,"Java,Spring Boot,Reactive Programming","Development,Backend",Deep Learning Engineer
+S0736,80.89,76.27,77.8,"Java,Spring Boot,Reactive Programming","Development,Backend",Deep Learning Engineer
+S0737,90.2,86.62,83.69,"Python,ML,Cloud Computing,Vertex AI","Development,ML",Deep Learning Engineer
+S0738,79.92,81.67,81.51,"Java,Spring Boot,Reactive Programming","Development,Backend",Deep Learning Engineer
+S0739,87.11,83.01,85.16,"Java,Spring Boot,Reactive Programming","Development,Backend",Deep Learning Engineer
+S0740,93.95,92.88,90.55,"Python,ML,Cloud Computing,MLOps","Development,ML",Deep Learning Engineer
+S0741,87.99,90.33,89.96,"Python,ML,Cloud Computing,MLOps","Development,ML",Deep Learning Engineer
+S0742,86.29,83.64,83.29,"Python,ML,Cloud Computing,Vertex AI","Development,ML",Deep Learning Engineer
+S0743,85.12,85.47,84.97,"Python,ML,Cloud Computing,MLOps","Development,ML",Deep Learning Engineer
+S0744,94.81,87.08,88.4,"Python,ML,Deep Learning,PyTorch","Research,Innovation",Deep Learning Engineer
+S0745,85.67,81.88,85.7,"Python,ML,Cloud Computing,MLOps","Development,ML",Deep Learning Engineer
+S0746,90.48,92.47,76.17,"Python,ML,Cloud Computing,MLOps","Development,ML",Deep Learning Engineer
+S0747,91.66,90.0,88.54,"Python,ML,Deep Learning,PyTorch","Research,Innovation",Deep Learning Engineer
+S0748,91.07,95.24,91.7,"Python,ML,Deep Learning,PyTorch","Research,Innovation",Deep Learning Engineer
+S0749,97.4,81.36,79.21,"Python,ML,Cloud Computing,Vertex AI","Development,ML",Deep Learning Engineer
+S0750,82.8,79.25,84.19,"HTML,CSS,JavaScript,Progressive Web Apps","Design,Development",Deep Learning Engineer
+S0751,89.14,92.22,83.33,"Python,ML,Deep Learning,Quantum ML","Research,Innovation",Java Developer
+S0752,85.97,83.49,91.13,"Python,ML,Deep Learning,Quantum ML","Research,Innovation",Java Developer
+S0753,70.83,77.46,78.97,"HTML,CSS,JavaScript,Angular","Design,Development",Java Developer
+S0754,83.61,83.81,76.66,"JavaScript,React,Redux,Webpack","Development,Frontend",Java Developer
+S0755,76.91,77.93,67.55,"Java,Spring,MySQL,JavaScript","Development,Problem Solving",Java Developer
+S0756,85.36,84.93,87.35,"Python,ML,Deep Learning,Quantum ML","Research,Innovation",Java Developer
+S0757,84.36,79.63,75.25,"Java,Spring,MySQL,JavaScript","Development,Problem Solving",Java Developer
+S0758,73.07,70.44,73.67,"HTML,CSS,JavaScript,Angular","Design,Development",Java Developer
+S0759,74.78,79.01,69.95,"HTML,CSS,JavaScript,Angular","Design,Development",Java Developer
+S0760,77.52,79.51,72.53,"JavaScript,React,Redux,Webpack","Development,Frontend",Java Developer
+S0761,84.53,89.76,84.8,"Python,ML,Deep Learning,Quantum ML","Research,Innovation",Java Developer
+S0762,85.98,71.18,69.77,"HTML,CSS,JavaScript,Angular","Design,Development",Java Developer
+S0763,82.87,71.54,66.64,"HTML,CSS,JavaScript,Angular","Design,Development",Java Developer
+S0764,89.79,79.21,81.6,"JavaScript,React,Redux,Webpack","Development,Frontend",Java Developer
+S0765,77.63,69.74,70.55,"HTML,CSS,JavaScript,Angular","Design,Development",Java Developer
+S0766,74.8,72.3,76.44,"HTML,CSS,JavaScript,Angular","Design,Development",Java Developer
+S0767,80.68,76.04,66.02,"Java,Spring,MySQL,JavaScript","Development,Problem Solving",Java Developer
+S0768,88.94,87.82,84.93,"Python,ML,Deep Learning,Quantum ML","Research,Innovation",Java Developer
+S0769,82.41,79.32,70.23,"Java,Spring,MySQL,JavaScript","Development,Problem Solving",Java Developer
+S0770,90.43,90.52,85.69,"Python,ML,Deep Learning,Quantum ML","Research,Innovation",Java Developer
+S0771,85.68,87.05,84.27,"Python,ML,Deep Learning,Quantum ML","Research,Innovation",Java Developer
+S0772,90.81,88.01,84.67,"Python,ML,Deep Learning,Federated Learning","Research,Innovation",Java Developer
+S0773,81.34,82.27,66.51,"Java,Spring,MySQL,JavaScript","Development,Problem Solving",Java Developer
+S0774,78.55,83.11,69.2,"HTML,CSS,JavaScript,Angular","Design,Development",Java Developer
+S0775,78.59,79.94,65.82,"HTML,CSS,JavaScript,Angular","Design,Development",Java Developer
+S0776,84.21,78.49,74.23,"Java,Spring,MySQL,JavaScript","Development,Problem Solving",Java Developer
+S0777,82.05,72.81,77.09,"Java,Spring,MySQL,JavaScript","Development,Problem Solving",Java Developer
+S0778,93.85,88.75,77.64,"Python,ML,Deep Learning,Federated Learning","Research,Innovation",Java Developer
+S0779,83.74,92.98,93.3,"Python,ML,Deep Learning,Quantum ML","Research,Innovation",Java Developer
+S0780,83.36,81.83,83.76,"JavaScript,React,Redux,Webpack","Development,Frontend",Java Developer
+S0781,78.03,81.93,77.07,"Java,Spring,MySQL,JavaScript","Development,Problem Solving",Java Developer
+S0782,89.11,94.3,85.43,"Python,ML,Deep Learning,Quantum ML","Research,Innovation",Java Developer
+S0783,76.55,73.14,64.08,"HTML,CSS,JavaScript,Angular","Design,Development",Java Developer
+S0784,74.9,80.56,67.25,"HTML,CSS,JavaScript,Angular","Design,Development",Java Developer
+S0785,83.55,75.91,68.28,"HTML,CSS,JavaScript,Angular","Design,Development",Java Developer
+S0786,79.29,84.3,76.95,"JavaScript,React,Redux,Webpack","Development,Frontend",Java Developer
+S0787,92.68,85.55,89.67,"Python,ML,Deep Learning,Quantum ML","Research,Innovation",Java Developer
+S0788,79.02,77.71,74.94,"HTML,CSS,JavaScript,Angular","Design,Development",Java Developer
+S0789,86.82,93.73,86.85,"Python,ML,Deep Learning,Quantum ML","Research,Innovation",Java Developer
+S0790,85.23,91.71,89.97,"Python,ML,Deep Learning,Quantum ML","Research,Innovation",Java Developer
+S0791,88.89,91.73,84.39,"Python,ML,Deep Learning,Federated Learning","Research,Innovation",Java Developer
+S0792,84.42,95.68,90.03,"Python,ML,Deep Learning,Quantum ML","Research,Innovation",Java Developer
+S0793,82.3,72.35,78.26,"Java,Spring,MySQL,JavaScript","Development,Problem Solving",Java Developer
+S0794,83.38,85.27,77.56,"Python,ML,Deep Learning,Federated Learning","Research,Innovation",Java Developer
+S0795,82.99,81.48,82.6,"Python,ML,Deep Learning,Federated Learning","Research,Innovation",Java Developer
+S0796,88.29,85.19,84.0,"Python,ML,Deep Learning,Federated Learning","Research,Innovation",Java Developer
+S0797,86.9,89.57,79.32,"Python,ML,Deep Learning,Federated Learning","Research,Innovation",Java Developer
+S0798,93.91,90.73,82.41,"Python,ML,Deep Learning,Quantum ML","Research,Innovation",Java Developer
+S0799,86.63,84.64,80.54,"Python,ML,Deep Learning,Federated Learning","Research,Innovation",Java Developer
+S0800,83.62,80.84,76.87,"Java,Spring,MySQL,JavaScript","Development,Problem Solving",Java Developer
+S0801,87.73,75.3,78.91,"Python,Flask,SQLAlchemy,AsyncIO","Development,Backend",Data Visualization Specialist
+S0802,81.86,82.77,75.2,"Python,SQL,Apache Druid,ClickHouse","Development,Analytics",Data Visualization Specialist
+S0803,77.25,85.24,71.88,"Python,SQL,Apache Druid,ClickHouse","Development,Analytics",Data Visualization Specialist
+S0804,89.12,89.54,82.09,"Python,SQL,Statistics,Tableau","Analysis,Visualization",Data Visualization Specialist
+S0805,86.58,74.7,74.64,"Python,SQL,Apache Kafka,Streaming","Development,Real-time",Data Visualization Specialist
+S0806,91.07,84.51,84.39,"Python,SQL,Apache Druid,ClickHouse","Development,Analytics",Data Visualization Specialist
+S0807,86.19,81.03,81.31,"Python,SQL,Apache Druid,ClickHouse","Development,Analytics",Data Visualization Specialist
+S0808,79.07,75.27,78.38,"Java,Spring,Microservices,Cloud Native","Development,Cloud",Data Visualization Specialist
+S0809,79.15,77.9,74.82,"Java,Spring,Microservices,Cloud Native","Development,Cloud",Data Visualization Specialist
+S0810,86.65,88.0,73.97,"Python,SQL,Apache Druid,ClickHouse","Development,Analytics",Data Visualization Specialist
+S0811,83.03,76.58,77.49,"Python,Flask,SQLAlchemy,AsyncIO","Development,Backend",Data Visualization Specialist
+S0812,87.92,86.59,83.12,"Python,SQL,Statistics,Tableau","Analysis,Visualization",Data Visualization Specialist
+S0813,76.42,81.79,78.11,"Java,Spring,Microservices,Cloud Native","Development,Cloud",Data Visualization Specialist
+S0814,85.05,84.06,71.85,"Python,Flask,SQLAlchemy,AsyncIO","Development,Backend",Data Visualization Specialist
+S0815,87.88,84.01,78.96,"Python,SQL,Apache Druid,ClickHouse","Development,Analytics",Data Visualization Specialist
+S0816,81.61,84.82,72.55,"Python,Flask,SQLAlchemy,AsyncIO","Development,Backend",Data Visualization Specialist
+S0817,80.52,88.54,77.46,"Python,SQL,Apache Druid,ClickHouse","Development,Analytics",Data Visualization Specialist
+S0818,88.49,78.76,77.57,"Python,SQL,Apache Kafka,Streaming","Development,Real-time",Data Visualization Specialist
+S0819,90.05,83.26,75.18,"Python,SQL,Apache Kafka,Streaming","Development,Real-time",Data Visualization Specialist
+S0820,86.66,87.45,84.56,"Python,SQL,Apache Kafka,Streaming","Development,Real-time",Data Visualization Specialist
+S0821,90.61,83.85,81.55,"Python,SQL,Apache Kafka,Streaming","Development,Real-time",Data Visualization Specialist
+S0822,79.65,89.98,79.39,"Python,SQL,Apache Druid,ClickHouse","Development,Analytics",Data Visualization Specialist
+S0823,85.82,85.98,84.64,"Python,SQL,Apache Kafka,Streaming","Development,Real-time",Data Visualization Specialist
+S0824,88.48,80.93,80.89,"Python,SQL,Statistics,Tableau","Analysis,Visualization",Data Visualization Specialist
+S0825,84.09,89.5,76.64,"Python,SQL,Apache Druid,ClickHouse","Development,Analytics",Data Visualization Specialist
+S0826,82.45,88.71,88.6,"Python,SQL,Apache Druid,ClickHouse","Development,Analytics",Data Visualization Specialist
+S0827,82.38,82.09,70.85,"Java,Spring,Microservices,Cloud Native","Development,Cloud",Data Visualization Specialist
+S0828,86.23,82.54,82.3,"Java,Spring,Microservices,Cloud Native","Development,Cloud",Data Visualization Specialist
+S0829,81.03,84.31,75.23,"Python,SQL,Apache Druid,ClickHouse","Development,Analytics",Data Visualization Specialist
+S0830,78.33,82.99,76.6,"Java,Spring,Microservices,Cloud Native","Development,Cloud",Data Visualization Specialist
+S0831,88.09,81.23,85.8,"Python,SQL,Apache Kafka,Streaming","Development,Real-time",Data Visualization Specialist
+S0832,93.64,85.38,78.04,"Python,SQL,Statistics,Tableau","Analysis,Visualization",Data Visualization Specialist
+S0833,85.24,80.3,80.05,"Python,Flask,SQLAlchemy,AsyncIO","Development,Backend",Data Visualization Specialist
+S0834,90.52,84.38,84.83,"Python,SQL,Apache Kafka,Streaming","Development,Real-time",Data Visualization Specialist
+S0835,89.42,90.62,83.91,"Python,SQL,Statistics,Tableau","Analysis,Visualization",Data Visualization Specialist
+S0836,85.85,79.33,81.93,"Java,Spring,Microservices,Cloud Native","Development,Cloud",Data Visualization Specialist
+S0837,85.27,77.34,74.7,"Python,Flask,SQLAlchemy,AsyncIO","Development,Backend",Data Visualization Specialist
+S0838,86.84,83.51,75.32,"Python,Flask,SQLAlchemy,AsyncIO","Development,Backend",Data Visualization Specialist
+S0839,89.34,83.99,85.6,"Python,SQL,Statistics,Tableau","Analysis,Visualization",Data Visualization Specialist
+S0840,87.68,85.1,74.95,"Python,SQL,Apache Druid,ClickHouse","Development,Analytics",Data Visualization Specialist
+S0841,85.72,88.21,73.52,"Python,SQL,Apache Druid,ClickHouse","Development,Analytics",Data Visualization Specialist
+S0842,86.11,82.02,83.05,"Python,SQL,Statistics,Tableau","Analysis,Visualization",Data Visualization Specialist
+S0843,90.73,82.71,80.54,"Python,SQL,Statistics,Tableau","Analysis,Visualization",Data Visualization Specialist
+S0844,85.88,82.14,87.55,"Python,SQL,Statistics,Tableau","Analysis,Visualization",Data Visualization Specialist
+S0845,87.38,82.53,84.75,"Python,SQL,Apache Kafka,Streaming","Development,Real-time",Data Visualization Specialist
+S0846,75.13,74.86,79.95,"Java,Spring,Microservices,Cloud Native","Development,Cloud",Data Visualization Specialist
+S0847,85.96,81.97,77.62,"Python,SQL,Apache Kafka,Streaming","Development,Real-time",Data Visualization Specialist
+S0848,84.09,85.3,78.52,"Python,SQL,Apache Kafka,Streaming","Development,Real-time",Data Visualization Specialist
+S0849,93.43,87.22,88.63,"Python,SQL,Statistics,Tableau","Analysis,Visualization",Data Visualization Specialist
+S0850,92.81,77.16,81.32,"Python,SQL,Apache Kafka,Streaming","Development,Real-time",Data Visualization Specialist
+S0851,84.27,89.69,80.7,"Python,Flask,Django,PostgreSQL","Development,Backend",Python Developer
+S0852,89.25,80.24,75.86,"Python,SQL,Apache Superset,Real-time Dashboards","Development,Visualization",Python Developer
+S0853,87.79,83.85,81.83,"Python,SQL,Apache Superset,Real-time Dashboards","Development,Visualization",Python Developer
+S0854,84.95,77.95,75.57,"Python,Flask,Django,PostgreSQL","Development,Backend",Python Developer
+S0855,88.88,83.91,77.02,"Python,SQL,Apache Kafka,Schema Registry","Development,Data",Python Developer
+S0856,83.23,85.34,81.0,"Python,SQL,Apache Superset,Real-time Dashboards","Development,Visualization",Python Developer
+S0857,97.14,82.17,82.0,"Python,ML,Deep Learning,Reinforcement Learning","Research,Innovation",Python Developer
+S0858,86.85,95.35,83.46,"Python,ML,Deep Learning,Reinforcement Learning","Research,Innovation",Python Developer
+S0859,93.83,85.6,87.22,"Python,ML,Deep Learning,LLMs","Research,Innovation",Python Developer
+S0860,86.77,85.48,82.36,"Python,SQL,Apache Superset,Real-time Dashboards","Development,Visualization",Python Developer
+S0861,94.04,85.53,79.54,"Python,ML,Deep Learning,Reinforcement Learning","Research,Innovation",Python Developer
+S0862,98.93,78.19,86.6,"Python,ML,Deep Learning,Reinforcement Learning","Research,Innovation",Python Developer
+S0863,89.93,81.53,83.34,"Python,SQL,Apache Superset,Real-time Dashboards","Development,Visualization",Python Developer
+S0864,85.08,93.26,88.44,"Python,ML,Deep Learning,Reinforcement Learning","Research,Innovation",Python Developer
+S0865,87.54,91.52,86.22,"Python,ML,Deep Learning,LLMs","Research,Innovation",Python Developer
+S0866,92.27,86.78,84.27,"Python,ML,Deep Learning,Reinforcement Learning","Research,Innovation",Python Developer
+S0867,86.98,79.9,80.48,"Python,Flask,Django,PostgreSQL","Development,Backend",Python Developer
+S0868,84.0,86.0,84.87,"Python,SQL,Apache Superset,Real-time Dashboards","Development,Visualization",Python Developer
+S0869,79.1,80.88,76.87,"Python,SQL,Apache Kafka,Schema Registry","Development,Data",Python Developer
+S0870,93.7,89.04,81.14,"Python,ML,Deep Learning,LLMs","Research,Innovation",Python Developer
+S0871,93.26,85.28,81.5,"Python,SQL,Apache Superset,Real-time Dashboards","Development,Visualization",Python Developer
+S0872,85.95,74.58,78.15,"Python,SQL,Apache Kafka,Schema Registry","Development,Data",Python Developer
+S0873,79.62,79.15,83.1,"Python,SQL,Apache Kafka,Schema Registry","Development,Data",Python Developer
+S0874,84.6,84.05,77.1,"Python,SQL,Apache Superset,Real-time Dashboards","Development,Visualization",Python Developer
+S0875,95.42,91.03,83.54,"Python,ML,Deep Learning,Reinforcement Learning","Research,Innovation",Python Developer
+S0876,83.13,82.48,82.86,"Python,SQL,Apache Superset,Real-time Dashboards","Development,Visualization",Python Developer
+S0877,92.01,85.85,78.47,"Python,ML,Deep Learning,LLMs","Research,Innovation",Python Developer
+S0878,84.05,85.74,86.75,"Python,SQL,Apache Kafka,Schema Registry","Development,Data",Python Developer
+S0879,90.43,79.43,78.57,"Python,ML,Deep Learning,Reinforcement Learning","Research,Innovation",Python Developer
+S0880,98.51,84.17,89.58,"Python,ML,Deep Learning,LLMs","Research,Innovation",Python Developer
+S0881,90.93,85.03,73.77,"Python,SQL,Apache Superset,Real-time Dashboards","Development,Visualization",Python Developer
+S0882,97.49,84.33,88.04,"Python,ML,Deep Learning,LLMs","Research,Innovation",Python Developer
+S0883,92.79,84.88,82.33,"Python,Flask,Django,PostgreSQL","Development,Backend",Python Developer
+S0884,78.92,84.22,85.97,"Python,Flask,Django,PostgreSQL","Development,Backend",Python Developer
+S0885,81.48,77.38,86.09,"Python,SQL,Apache Superset,Real-time Dashboards","Development,Visualization",Python Developer
+S0886,80.79,80.01,83.74,"Python,Flask,Django,PostgreSQL","Development,Backend",Python Developer
+S0887,89.11,79.59,77.78,"Python,ML,Deep Learning,LLMs","Research,Innovation",Python Developer
+S0888,87.36,89.99,80.92,"Python,SQL,Apache Kafka,Schema Registry","Development,Data",Python Developer
+S0889,93.13,86.91,85.32,"Python,ML,Deep Learning,Reinforcement Learning","Research,Innovation",Python Developer
+S0890,77.75,86.16,85.06,"Python,SQL,Apache Superset,Real-time Dashboards","Development,Visualization",Python Developer
+S0891,89.09,83.99,84.66,"Python,SQL,Apache Superset,Real-time Dashboards","Development,Visualization",Python Developer
+S0892,94.88,93.38,83.03,"Python,ML,Deep Learning,Reinforcement Learning","Research,Innovation",Python Developer
+S0893,78.95,76.26,77.67,"Python,SQL,Apache Superset,Real-time Dashboards","Development,Visualization",Python Developer
+S0894,78.32,89.77,78.13,"Python,Flask,Django,PostgreSQL","Development,Backend",Python Developer
+S0895,89.09,85.34,81.33,"Python,SQL,Apache Superset,Real-time Dashboards","Development,Visualization",Python Developer
+S0896,87.54,77.27,74.59,"Python,SQL,Apache Kafka,Schema Registry","Development,Data",Python Developer
+S0897,93.36,91.88,79.78,"Python,ML,Deep Learning,Reinforcement Learning","Research,Innovation",Python Developer
+S0898,89.15,83.71,84.45,"Python,SQL,Apache Superset,Real-time Dashboards","Development,Visualization",Python Developer
+S0899,87.82,84.32,82.33,"Python,Flask,Django,PostgreSQL","Development,Backend",Python Developer
+S0900,77.71,80.68,83.88,"Python,Flask,Django,PostgreSQL","Development,Backend",Python Developer
+S0901,81.08,75.35,65.31,"Java,Spring Boot,GraphQL,PostgreSQL","Development,API",Cloud ML Engineer
+S0902,87.64,90.11,88.0,"Python,ML,Cloud Computing,MLOps","Development,ML",Cloud ML Engineer
+S0903,90.82,91.8,84.45,"Python,ML,Cloud Computing,Azure","Development,Cloud",Cloud ML Engineer
+S0904,86.17,74.86,72.23,"Java,Spring,Microservices,Kubernetes","Development,Cloud",Cloud ML Engineer
+S0905,73.41,70.2,65.38,"Java,Spring Boot,GraphQL,PostgreSQL","Development,API",Cloud ML Engineer
+S0906,83.69,73.52,80.3,"Java,Spring,Microservices,Kubernetes","Development,Cloud",Cloud ML Engineer
+S0907,84.28,90.44,82.96,"Python,ML,Cloud Computing,MLOps","Development,ML",Cloud ML Engineer
+S0908,96.97,86.68,81.68,"Python,ML,Cloud Computing,MLOps","Development,ML",Cloud ML Engineer
+S0909,79.19,77.78,75.37,"Java,Spring,Microservices,Kubernetes","Development,Cloud",Cloud ML Engineer
+S0910,94.45,89.62,84.33,"Python,ML,Cloud Computing,Azure","Development,Cloud",Cloud ML Engineer
+S0911,85.63,76.16,74.45,"Java,Spring,Microservices,Kubernetes","Development,Cloud",Cloud ML Engineer
+S0912,87.36,83.7,88.73,"Python,ML,Cloud Computing,MLOps","Development,ML",Cloud ML Engineer
+S0913,79.29,84.29,76.72,"Java,Spring,Microservices,Kubernetes","Development,Cloud",Cloud ML Engineer
+S0914,78.42,80.9,69.96,"Java,Spring,Microservices,Kubernetes","Development,Cloud",Cloud ML Engineer
+S0915,78.89,79.13,64.3,"Java,Spring Boot,GraphQL,PostgreSQL","Development,API",Cloud ML Engineer
+S0916,76.35,73.25,73.77,"Java,Spring,Microservices,Kubernetes","Development,Cloud",Cloud ML Engineer
+S0917,96.15,91.91,80.02,"Python,ML,Cloud Computing,MLOps","Development,ML",Cloud ML Engineer
+S0918,80.27,74.49,72.06,"Java,Spring,Microservices,Kubernetes","Development,Cloud",Cloud ML Engineer
+S0919,84.33,80.35,72.83,"Java,Spring,Microservices,Kubernetes","Development,Cloud",Cloud ML Engineer
+S0920,79.99,83.58,78.38,"Java,Spring Boot,GraphQL,PostgreSQL","Development,API",Cloud ML Engineer
+S0921,87.85,86.82,89.7,"Python,ML,Cloud Computing,Azure","Development,Cloud",Cloud ML Engineer
+S0922,80.24,81.19,76.23,"Java,Spring,Microservices,Kubernetes","Development,Cloud",Cloud ML Engineer
+S0923,94.43,90.31,87.11,"Python,ML,Cloud Computing,Azure","Development,Cloud",Cloud ML Engineer
+S0924,90.38,96.57,80.33,"Python,ML,Cloud Computing,MLOps","Development,ML",Cloud ML Engineer
+S0925,78.2,74.03,75.13,"Java,Spring,Microservices,Kubernetes","Development,Cloud",Cloud ML Engineer
+S0926,83.91,85.28,77.67,"Python,ML,Cloud Computing,MLOps","Development,ML",Cloud ML Engineer
+S0927,93.65,94.0,87.12,"Python,ML,Cloud Computing,MLOps","Development,ML",Cloud ML Engineer
+S0928,90.8,85.41,80.97,"Python,ML,Cloud Computing,Azure","Development,Cloud",Cloud ML Engineer
+S0929,76.47,71.5,66.51,"Java,Spring Boot,GraphQL,PostgreSQL","Development,API",Cloud ML Engineer
+S0930,92.68,91.27,87.56,"Python,ML,Cloud Computing,Azure","Development,Cloud",Cloud ML Engineer
+S0931,86.08,83.47,84.3,"Python,ML,Cloud Computing,Azure","Development,Cloud",Cloud ML Engineer
+S0932,80.45,77.84,73.83,"Java,Spring Boot,GraphQL,PostgreSQL","Development,API",Cloud ML Engineer
+S0933,87.35,91.31,83.71,"Python,ML,Cloud Computing,MLOps","Development,ML",Cloud ML Engineer
+S0934,76.45,75.1,73.3,"Java,Spring,Microservices,Kubernetes","Development,Cloud",Cloud ML Engineer
+S0935,75.85,84.71,75.55,"Java,Spring,Microservices,Kubernetes","Development,Cloud",Cloud ML Engineer
+S0936,90.64,92.22,89.08,"Python,ML,Cloud Computing,Azure","Development,Cloud",Cloud ML Engineer
+S0937,78.58,76.91,81.8,"Java,Spring,Microservices,Kubernetes","Development,Cloud",Cloud ML Engineer
+S0938,87.09,77.56,79.05,"Java,Spring,Microservices,Kubernetes","Development,Cloud",Cloud ML Engineer
+S0939,92.26,94.67,88.32,"Python,ML,Cloud Computing,Azure","Development,Cloud",Cloud ML Engineer
+S0940,86.41,78.93,79.61,"Python,ML,Cloud Computing,Azure","Development,Cloud",Cloud ML Engineer
+S0941,91.86,92.34,86.55,"Python,ML,Cloud Computing,Azure","Development,Cloud",Cloud ML Engineer
+S0942,91.33,84.22,80.92,"Python,ML,Cloud Computing,MLOps","Development,ML",Cloud ML Engineer
+S0943,80.35,80.8,73.64,"Java,Spring,Microservices,Kubernetes","Development,Cloud",Cloud ML Engineer
+S0944,78.3,79.3,68.01,"Java,Spring Boot,GraphQL,PostgreSQL","Development,API",Cloud ML Engineer
+S0945,96.6,86.53,89.4,"Python,ML,Cloud Computing,Azure","Development,Cloud",Cloud ML Engineer
+S0946,76.16,76.68,73.68,"Java,Spring,Microservices,Kubernetes","Development,Cloud",Cloud ML Engineer
+S0947,90.51,90.75,87.41,"Python,ML,Cloud Computing,Azure","Development,Cloud",Cloud ML Engineer
+S0948,89.72,87.44,90.25,"Python,ML,Cloud Computing,MLOps","Development,ML",Cloud ML Engineer
+S0949,94.17,87.78,84.35,"Python,ML,Cloud Computing,Azure","Development,Cloud",Cloud ML Engineer
+S0950,93.11,87.28,79.1,"Python,ML,Cloud Computing,Azure","Development,Cloud",Cloud ML Engineer
+S0951,88.16,83.94,79.7,"HTML,CSS,JavaScript,React,Figma","Design,User Experience,Visual Design,Frontend",UI/UX Developer
+S0952,80.0,76.0,65.24,"React,CSS,JavaScript,Figma,Design Systems","UI/UX,Design,Development,User Research",UI/UX Developer
+S0953,76.68,69.36,74.39,"Vue.js,CSS,JavaScript,Adobe XD,Animation","UX,UI,Design Thinking,User Research",UI/UX Developer
+S0954,84.84,83.27,85.24,"HTML,CSS,JavaScript,Responsive Design,Figma","UI/UX,Design,Development,User Research",UI/UX Developer
+S0955,89.07,81.27,81.43,"HTML,CSS,JavaScript,React,Figma","Design,User Experience,Prototyping,Innovation",UI/UX Developer
+S0956,81.31,74.51,74.56,"HTML,CSS,JavaScript,React,Figma","Design,User Experience,Frontend,Creativity",UI/UX Developer
+S0957,82.15,85.89,76.33,"HTML,CSS,SASS,JavaScript,Figma,Accessibility","Design,User Experience,Frontend,Creativity",UI/UX Developer
+S0958,77.23,73.49,76.9,"Vue.js,CSS,JavaScript,Adobe XD,Animation","UI Design,UX,Development,Accessibility",UI/UX Developer
+S0959,93.65,83.2,75.55,"HTML,CSS,JavaScript,Vue.js,Adobe XD","Design,User Experience,Visual Design,Frontend",UI/UX Developer
+S0960,94.08,80.64,80.49,"HTML,CSS,JavaScript,Responsive Design,Figma","UI/UX,Design,Development,User Research",UI/UX Developer
+S0961,94.17,83.84,87.12,"React,Styled Components,Figma,TypeScript","Design,User Experience,Visual Design,Frontend",UI/UX Developer
+S0962,80.5,80.32,72.89,"React,CSS,JavaScript,Figma,Design Systems","UI Design,UX,Development,Accessibility",UI/UX Developer
+S0963,93.7,85.52,85.42,"HTML,CSS,SASS,JavaScript,Figma,Accessibility","Design,User Experience,Frontend,Creativity",UI/UX Developer
+S0964,95.43,87.5,88.06,"HTML,CSS,JavaScript,React,Figma","UX,UI,Design Thinking,User Research",UI/UX Developer
+S0965,75.59,72.63,68.73,"Vue.js,CSS,JavaScript,Adobe XD,Animation","Design,User Experience,Frontend,Creativity",UI/UX Developer
+S0966,72.12,83.67,69.94,"Vue.js,CSS,JavaScript,Adobe XD,Animation","UX,UI,Design Thinking,User Research",UI/UX Developer
+S0967,89.56,81.24,79.25,"HTML,CSS,JavaScript,React,Figma","Design,User Experience,Visual Design,Frontend",UI/UX Developer
+S0968,91.95,75.56,83.49,"React,Styled Components,Figma,TypeScript","UI/UX,Design,Development,User Research",UI/UX Developer
+S0969,88.18,84.93,79.8,"React,Styled Components,Figma,TypeScript","Design,User Experience,Prototyping,Innovation",UI/UX Developer
+S0970,79.4,75.48,73.85,"React,CSS,JavaScript,Figma,Design Systems","UI Design,UX,Development,Accessibility",UI/UX Developer
+S0971,93.21,87.49,80.66,"HTML,CSS,SASS,JavaScript,Figma,Accessibility","Design,User Experience,Frontend,Creativity",UI/UX Developer
+S0972,85.13,73.21,65.88,"HTML,CSS,JavaScript,Angular,Sketch","Design,User Experience,Visual Design,Frontend",UI/UX Developer
+S0973,85.42,87.42,83.54,"HTML,CSS,JavaScript,React,Figma","UI Design,UX,Development,Accessibility",UI/UX Developer
+S0974,82.55,75.89,68.22,"HTML,CSS,JavaScript,Angular,Sketch","Design,User Experience,Frontend,Creativity",UI/UX Developer
+S0975,72.91,71.05,81.54,"HTML,CSS,JavaScript,React,Figma","Design,User Experience,Prototyping,Innovation",UI/UX Developer
+S0976,78.16,76.43,72.98,"React,Styled Components,Figma,TypeScript","UI/UX,Design,Development,User Research",UI/UX Developer
+S0977,77.36,80.35,80.99,"React,Styled Components,Figma,TypeScript","Design,User Experience,Frontend,Creativity",UI/UX Developer
+S0978,70.69,83.96,73.22,"React,Styled Components,Figma,TypeScript","UI Design,UX,Development,Accessibility",UI/UX Developer
+S0979,76.78,66.17,72.87,"React,Styled Components,Figma,TypeScript","Design,User Experience,Prototyping,Innovation",UI/UX Developer
+S0980,90.59,89.9,88.64,"React,CSS,JavaScript,Figma,Design Systems","Design,User Experience,Visual Design,Frontend",UI/UX Developer
+S0981,77.51,73.51,76.0,"HTML,CSS,JavaScript,Vue.js,Adobe XD","Design,User Experience,Prototyping,Innovation",UI/UX Developer
+S0982,87.48,77.76,79.7,"HTML,CSS,SASS,JavaScript,Figma,Accessibility","Design,User Experience,Visual Design,Frontend",UI/UX Developer
+S0983,88.36,84.72,76.25,"HTML,CSS,JavaScript,Vue.js,Adobe XD","Design,User Experience,Prototyping,Innovation",UI/UX Developer
+S0984,79.65,74.16,71.06,"HTML,CSS,JavaScript,React,Figma","UI/UX,Design,Development,User Research",UI/UX Developer
+S0985,74.37,75.49,71.14,"React,CSS,JavaScript,Figma,Design Systems","Design,User Experience,Visual Design,Frontend",UI/UX Developer
+S0986,75.1,79.67,68.38,"React,Styled Components,Figma,TypeScript","Design,User Experience,Prototyping,Innovation",UI/UX Developer
+S0987,76.95,72.83,66.29,"React,Styled Components,Figma,TypeScript","Design,User Experience,Visual Design,Frontend",UI/UX Developer
+S0988,75.79,67.71,75.88,"React,CSS,JavaScript,Figma,Design Systems","UI/UX,Design,Development,User Research",UI/UX Developer
+S0989,78.37,79.95,75.09,"HTML,CSS,JavaScript,Responsive Design,Figma","Design,User Experience,Visual Design,Frontend",UI/UX Developer
+S0990,82.28,88.2,80.73,"React,CSS,JavaScript,Figma,Design Systems","Design,User Experience,Prototyping,Innovation",UI/UX Developer
+S0991,86.67,87.57,75.9,"React,CSS,JavaScript,Figma,Design Systems","UI/UX,Design,Development,User Research",UI/UX Developer
+S0992,83.68,74.03,74.08,"HTML,CSS,JavaScript,Vue.js,Adobe XD","UI/UX,Design,Development,User Research",UI/UX Developer
+S0993,79.04,81.18,72.65,"React,CSS,JavaScript,Figma,Design Systems","Design,User Experience,Frontend,Creativity",UI/UX Developer
+S0994,81.41,84.63,75.62,"Vue.js,CSS,JavaScript,Adobe XD,Animation","Design,User Experience,Prototyping,Innovation",UI/UX Developer
+S0995,74.12,77.14,61.7,"HTML,CSS,JavaScript,Vue.js,Adobe XD","UI Design,UX,Development,Accessibility",UI/UX Developer
+S0996,79.24,79.78,68.18,"Vue.js,CSS,JavaScript,Adobe XD,Animation","Design,User Experience,Frontend,Creativity",UI/UX Developer
+S0997,81.5,67.07,67.83,"HTML,CSS,JavaScript,Vue.js,Adobe XD","UI Design,UX,Development,Accessibility",UI/UX Developer
+S0998,81.25,79.47,78.5,"HTML,CSS,JavaScript,React,Figma","UX,UI,Design Thinking,User Research",UI/UX Developer
+S0999,86.48,89.37,77.01,"HTML,CSS,JavaScript,Angular,Sketch","UI/UX,Design,Development,User Research",UI/UX Developer
+S1000,78.8,80.03,68.07,"React,CSS,JavaScript,Figma,Design Systems","Design,User Experience,Visual Design,Frontend",UI/UX Developer

@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Career Recommendation System</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #333;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .form-group {
+            margin-bottom: 20px;
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+            color: #555;
+        }
+        input, select, textarea {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+        button {
+            background-color: #007bff;
+            color: white;
+            padding: 12px 30px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            width: 100%;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+        .result {
+            margin-top: 30px;
+            padding: 20px;
+            background-color: #f8f9fa;
+            border-radius: 5px;
+            display: none;
+        }
+        .loading {
+            text-align: center;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🎯 AI Career Recommendation System</h1>
+        
+        <form id="careerForm">
+            <div class="form-group">
+                <label for="tenth_score">10th Grade Score (%):</label>
+                <input type="number" id="tenth_score" name="tenth_score" min="0" max="100" required>
+            </div>
+            
+            <div class="form-group">
+                <label for="twelfth_score">12th Grade Score (%):</label>
+                <input type="number" id="twelfth_score" name="twelfth_score" min="0" max="100" required>
+            </div>
+            
+            <div class="form-group">
+                <label for="ug_score">Undergraduate Score (%):</label>
+                <input type="number" id="ug_score" name="ug_score" min="0" max="100" required>
+            </div>
+            
+            <div class="form-group">
+                <label for="skills">Technical Skills (comma-separated):</label>
+                <input type="text" id="skills" name="skills" placeholder="e.g., Python, SQL, JavaScript, Machine Learning" required>
+            </div>
+            
+            <div class="form-group">
+                <label for="interests">Career Interests (comma-separated):</label>
+                <input type="text" id="interests" name="interests" placeholder="e.g., Research, Development, Business, Analysis" required>
+            </div>
+            
+            <button type="submit">Get Career Recommendation</button>
+        </form>
+        
+        <div id="result" class="result">
+            <h3>Career Recommendation</h3>
+            <div id="resultContent"></div>
+        </div>
+    </div>
+
+    <script>
+        document.getElementById('careerForm').addEventListener('submit', async function(e) {
+            e.preventDefault();
+            
+            const formData = new FormData(e.target);
+            const data = {
+                tenth_score: parseFloat(formData.get('tenth_score')),
+                twelfth_score: parseFloat(formData.get('twelfth_score')),
+                ug_score: parseFloat(formData.get('ug_score')),
+                skills: formData.get('skills'),
+                interests: formData.get('interests')
+            };
+            
+            const resultDiv = document.getElementById('result');
+            const resultContent = document.getElementById('resultContent');
+            
+            resultDiv.style.display = 'block';
+            resultContent.innerHTML = '<div class="loading">Analyzing your profile...</div>';
+            
+            try {
+                const response = await fetch('/predict', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify(data)
+                });
+                
+                const result = await response.json();
+                
+                if (result.error) {
+                    resultContent.innerHTML = `<p style="color: red;">Error: ${result.error}</p>`;
+                } else {
+                    resultContent.innerHTML = `
+                        <h4>🎯 Recommended Career: ${result.prediction}</h4>
+                        <p><strong>Confidence:</strong> ${(result.confidence * 100).toFixed(1)}%</p>
+                        
+                        <h4>💼 Job Opportunities:</h4>
+                        <ul>
+                            ${result.jobs.map(job => `
+                                <li>
+                                    <strong>${job.title}</strong> at ${job.company}<br>
+                                    <small>📍 ${job.location} | 💰 ${job.salary}</small>
+                                </li>
+                            `).join('')}
+                        </ul>
+                        
+                        <h4>📚 Skills Analysis:</h4>
+                        <p><strong>Readiness Level:</strong> ${result.skills_analysis.readiness_level}</p>
+                        <p><strong>Overall Readiness:</strong> ${result.skills_analysis.overall_readiness}%</p>
+                    `;
+                }
+            } catch (error) {
+                resultContent.innerHTML = `<p style="color: red;">Error: ${error.message}</p>`;
+            }
+        });
+    </script>
+</body>
+</html>
